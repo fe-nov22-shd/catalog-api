@@ -1,55 +1,31 @@
 import {
   AllowNull,
-  AutoIncrement, BelongsTo,
   Column,
-  DataType, ForeignKey,
+  DataType,
   Model,
   PrimaryKey,
   Table
 } from 'sequelize-typescript';
-import { PhoneInfo } from "./PhoneInfo";
-import { Category } from "./Category";
 
 @Table({
-  tableName: 'phones',
+  tableName: 'phonesInfo',
   createdAt: false,
   updatedAt: false,
 })
 
-export class Phone extends Model {
+export class PhoneInfo extends Model {
   @PrimaryKey
-  @AutoIncrement
   @AllowNull(false)
-  @Column({
-    type: DataType.INTEGER,
-  })
-  id: number;
-
-  @AllowNull(false)
-  @ForeignKey(() => Category)
-  @Column({
-    type: DataType.INTEGER,
-  })
-  categoryId: number;
-
-  @BelongsTo(() => Category)
-  category: Category | null;
-
-  @AllowNull(false)
-  @ForeignKey(() => PhoneInfo)
   @Column({
     type: DataType.STRING,
   })
-  phoneId: string;
-
-  @BelongsTo(() => PhoneInfo)
-  phoneInfo: PhoneInfo | null;
+  id: string;
 
   @AllowNull(false)
   @Column({
     type: DataType.STRING,
   })
-  itemId: string;
+  namespaceId: string;
 
   @AllowNull(false)
   @Column({
@@ -59,15 +35,51 @@ export class Phone extends Model {
 
   @AllowNull(false)
   @Column({
-    type: DataType.INTEGER,
+    type: DataType.JSONB,
   })
-  fullPrice: number;
+  capacityAvailable: string;
+
+  @AllowNull(false)
+  @Column({
+    type: DataType.STRING,
+  })
+  capacity: string;
 
   @AllowNull(false)
   @Column({
     type: DataType.INTEGER,
   })
-  price: number;
+  priceRegular: number;
+
+  @AllowNull(false)
+  @Column({
+    type: DataType.INTEGER,
+  })
+  priceDiscount: number;
+
+  @AllowNull(false)
+  @Column({
+    type: DataType.JSONB,
+  })
+  colorsAvailable: string;
+
+  @AllowNull(false)
+  @Column({
+    type: DataType.STRING,
+  })
+  color: string;
+
+  @AllowNull(false)
+  @Column({
+    type: DataType.JSONB,
+  })
+  images: string;
+
+  @AllowNull(false)
+  @Column({
+    type: DataType.JSONB,
+  })
+  description: string;
 
   @AllowNull(false)
   @Column({
@@ -79,13 +91,13 @@ export class Phone extends Model {
   @Column({
     type: DataType.STRING,
   })
-  capacity: string;
+  resolution: string;
 
   @AllowNull(false)
   @Column({
     type: DataType.STRING,
   })
-  color: string;
+  processor: string;
 
   @AllowNull(false)
   @Column({
@@ -95,14 +107,20 @@ export class Phone extends Model {
 
   @AllowNull(false)
   @Column({
-    type: DataType.INTEGER,
+    type: DataType.STRING,
   })
-  year: number;
+  camera: string;
 
   @AllowNull(false)
   @Column({
     type: DataType.STRING,
   })
-  image: string;
+  zoom: string;
+
+  @AllowNull(false)
+  @Column({
+    type: DataType.STRING,
+  })
+  cell: string;
 
 }

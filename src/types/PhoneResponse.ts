@@ -1,5 +1,5 @@
 export interface PhoneResponse {
-    category: string,
+    categoryId: number,
     phoneId: string,
     itemId: string,
     name: string,

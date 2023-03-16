@@ -1,10 +1,11 @@
 import express from 'express';
-import * as goodController from '../controller/phones';
+import * as phoneController from '../controller/phones';
 
 export const router = express.Router();
 
-router.get('/', goodController.getAll);
-router.get('/:phoneId', goodController.getOne)
+router.get('/', phoneController.getAll);
+router.get('/:phoneId', phoneController.getOne)
 
-router.post('/', goodController.addPhone)
-router.delete('/:phoneId', goodController.removePhone)
+router.post('/', phoneController.addPhone)
+router.delete('/:phoneId', phoneController.removePhone)
+
