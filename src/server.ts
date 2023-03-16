@@ -12,6 +12,6 @@ dbInit();
 app.use(cors());
 
 app.use('/phones', express.json(), phonesRouter);
-app.use('/phones', express.json(), phoneInfoRouter);
+app.use('/phones/info', express.json(), phoneInfoRouter);
 
 app.listen(3000);
