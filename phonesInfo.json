@@ -1,0 +1,3214 @@
+[
+  {
+    "id": "apple-iphone-7-32gb-black",
+    "namespaceId": "apple-iphone-7",
+    "name": "Apple iPhone 7 32GB Black",
+    "capacityAvailable": ["32GB"],
+    "capacity": "32GB",
+    "priceRegular": 400,
+    "priceDiscount": 375,
+    "colorsAvailable": ["black", "rosegold", "gold", "silver"],
+    "color": "black",
+    "images": [
+      "https://mega.nz/file/8fQ21I5Y#Yqx0XjqdAbKW2qZvToWPRrtnk4eviPxRuaXLwfunj-M",
+      "https://mega.nz/file/deYFkJ5Y#QTkL9sV72_ZzSgP09-PsG-YjXpwGJgYvjKNV-SHFAbc",
+      "https://mega.nz/file/pPpxhYxS#sqwyZ8zDSrEvjDlm4uze1pIsDeoRcdGwpn2gXv5MpRU",
+      "https://mega.nz/file/JCQy1IrY#L5rkLmBN4F8EEO89kpzq5zO0wnAcfGMr5CJwl-iteIY",
+      "https://mega.nz/file/MSIWXKoB#prk6x9C2mfuizjDsVo8-ZEcKjw0fPVIQtr9_Y4EroF8"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "4.7' IPS",
+    "resolution": "1334x750",
+    "processor": "Apple A10",
+    "ram": "2GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-7-32gb-gold",
+    "namespaceId": "apple-iphone-7",
+    "name": "Apple iPhone 7 32GB Gold",
+    "capacityAvailable": ["32GB"],
+    "capacity": "32GB",
+    "priceRegular": 400,
+    "priceDiscount": 375,
+    "colorsAvailable": ["black", "rosegold", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/4C5TVBBZ#IdUrwe8hIA26x6VAFDnOZVt3g8i2rg3SY9syeTNcFrc",
+      "https://mega.nz/file/wfJQXbqD#Zef0SoLG0QZrR7IJcFsQWNfA2ciGOnR5l6IHK3TasqU",
+      "https://mega.nz/file/BSQA2TwC#o4twGophixW8DQXfB3mw4h25aX2FOIxHjRIq_rZ2HkQ",
+      "https://mega.nz/file/UDxD0bwK#B6SgFuWkFp_m6i9sI-SO61zVnIf9NIEVnYk-8KSJcQc",
+      "https://mega.nz/file/lWh0DRoB#jb1pCMxagDFQXP2l1TBWRfbInCd3idQILfKqaSz7TYg"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "4.7' IPS",
+    "resolution": "1334x750",
+    "processor": "Apple A10",
+    "ram": "2GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-7-32gb-rosegold",
+    "namespaceId": "apple-iphone-7",
+    "name": "Apple iPhone 7 32GB Rosegold",
+    "capacityAvailable": ["32GB"],
+    "capacity": "32GB",
+    "priceRegular": 400,
+    "priceDiscount": 375,
+    "colorsAvailable": ["black", "rosegold", "gold", "silver"],
+    "color": "rosegold",
+    "images": [
+      "https://mega.nz/file/5aAXkaCL#R_4GhhnCTIp7DU_CHpnvwWxAd9caENwSjKXmi5lmaMU",
+      "https://mega.nz/file/dagATZjD#x1HDNVeHMJ1vlsDEWBhRgu00nOMcWm0k4-9nl9Ls1Uc",
+      "https://mega.nz/file/YLgmwIQY#CmL97UOW9sX6aOk4a40GK_BHsMeMQ4P-ondyZUJBe80",
+      "https://mega.nz/file/IPpVwaDJ#-J7du9LnjJ0RVg0uX_PJeut0E3aPETtw3iG6YRrGNPQ",
+      "https://mega.nz/file/1SBz1ATD#-ILRjuFXXh2ElbYCBD67eLUVq0t6SGMWXqlDykMNNXY"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "4.7' IPS",
+    "resolution": "1334x750",
+    "processor": "Apple A10",
+    "ram": "2GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-7-32gb-silver",
+    "namespaceId": "apple-iphone-7",
+    "name": "Apple iPhone 7 32GB Silver",
+    "capacityAvailable": ["32GB"],
+    "capacity": "32GB",
+    "priceRegular": 400,
+    "priceDiscount": 375,
+    "colorsAvailable": ["black", "rosegold", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/paJVwIbT#LijSHCnuS2IXEosNt6vw6vum8zWC23Pvk9qyE4l4GJM",
+      "https://mega.nz/file/NG5wwbAR#pTwwc29FtOen5jrG1_BndIZ_gjXZAp4NbOkZOQnYyjc",
+      "https://mega.nz/file/EDgUiagb#clK1Xh6Ezw1XCSLd5jj3DnGwoR9yqLjLecmIlw9bFYU",
+      "https://mega.nz/file/gfBiGJxK#fDBSD7nB_LKSkZCusw2rgUr4udfzN13jShWoSmeCVMw",
+      "https://mega.nz/file/pHoGkZTZ#vnAISp75z0otu7_-KpIsgzTYvknrV1AML7YrxiCiZTI"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "4.7' IPS",
+    "resolution": "1334x750",
+    "processor": "Apple A10",
+    "ram": "2GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-7-plus-32gb-black",
+    "namespaceId": "apple-iphone-7-plus",
+    "name": "Apple iPhone 7 Plus 32GB Black",
+    "capacityAvailable": ["32GB"],
+    "capacity": "32GB",
+    "priceRegular": 540,
+    "priceDiscount": 500,
+    "colorsAvailable": ["black", "rosegold", "gold", "silver"],
+    "color": "black",
+    "images": [
+      "https://mega.nz/file/JbZAGRgb#BqPI5y7uw2mqigUXFOf2ksUTSFzPEnNlDLztCujXNDs",
+      "https://mega.nz/file/4fBgRIwS#bUOM23V_J5UrSWQxELsddLiiRfgHGpiQszt5WrsoG80",
+      "https://mega.nz/file/UWYxRAyQ#s2DsGTApgScLYYz_qSXw6cnofvr1XSLDOovuFX3mCk4",
+      "https://mega.nz/file/MLIwkLBa#iwuJegxTigL9NwLr7MsBiz9GFQ7gyBkjBctRdy6k40w",
+      "https://mega.nz/file/cGQQUAjY#a93uWDuqvDiJfXg4-rAvrVfEBor__SdKL5h82Tid2bk"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.5' IPS",
+    "resolution": "1920x1080",
+    "processor": "Apple A10",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-7-plus-32gb-gold",
+    "namespaceId": "apple-iphone-7-plus",
+    "name": "Apple iPhone 7 Plus 32GB Gold",
+    "capacityAvailable": ["32GB"],
+    "capacity": "32GB",
+    "priceRegular": 540,
+    "priceDiscount": 500,
+    "colorsAvailable": ["black", "rosegold", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/4K4WTB6Y#_ZhuwddyYXC38y-lMvtcfQBSiJy4HhmD7MAoSFPPT2I",
+      "https://mega.nz/file/lCwhybSI#qqiZhNi2RbOrrdr6WxKe2w2Uj_cp2AWG2YwDpXNN2ag",
+      "https://mega.nz/file/8aJGHZgC#yIDrfoSZnY64AfQZGWbV2qCoRdJgsibb2oqKHYPZr_Y",
+      "https://mega.nz/file/haBnnL6Y#auOHqWL67rqB1Nbf1Nb0bjyKJoyqtwlQpRPvhUGqb-8",
+      "https://mega.nz/file/QH5W1B5I#UKn9rIjf5vMSUt9_vt_gr5vIPtKr0SUu2c6jYd6Bjlo"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.5' IPS",
+    "resolution": "1920x1080",
+    "processor": "Apple A10",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-7-plus-32gb-rosegold",
+    "namespaceId": "apple-iphone-7-plus",
+    "name": "Apple iPhone 7 Plus 32GB Rosegold",
+    "capacityAvailable": ["32GB"],
+    "capacity": "32GB",
+    "priceRegular": 540,
+    "priceDiscount": 500,
+    "colorsAvailable": ["black", "rosegold", "gold", "silver"],
+    "color": "rosegold",
+    "images": [
+      "https://mega.nz/file/gfQXCAgY#NNUXsjyltgZOqautNe9WLY7ql4aFSlAWzScRUc1-FOU",
+      "https://mega.nz/file/cH5T0JpR#ZV4JY54m7o2cPUC6vnem4jq6P2uMLUavBw4jL3LFiVg",
+      "https://mega.nz/file/kKxlVIrY#a6QZGNnvTvc4va4imCTtrzOm4iEEv8np0PE1yCbW7Jg",
+      "https://mega.nz/file/oKpXHLhK#cSXudfm0kBTdeMOuKWzL_T6wVlLI75BTZ5GtXSYLSic",
+      "https://mega.nz/file/xOxEiTZK#IVyLUfMa0Wh-t-ORGb8HzS_U3SeEiR0LS9hcavzWjxg"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.5' IPS",
+    "resolution": "1920x1080",
+    "processor": "Apple A10",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-7-plus-32gb-silver",
+    "namespaceId": "apple-iphone-7-plus",
+    "name": "Apple iPhone 7 Plus 32GB Silver",
+    "capacityAvailable": ["32GB"],
+    "capacity": "32GB",
+    "priceRegular": 540,
+    "priceDiscount": 500,
+    "colorsAvailable": ["black", "rosegold", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/9PA1RJSA#m-qmdNP8jt2SFWYuTW5z960XFb7fTdXQCl00zg46PM8",
+      "https://mega.nz/file/JGZCkbpT#gRjDzgeDJ7FgsOwfLabofY9MO30utqbP-fZFSt0q4uQ",
+      "https://mega.nz/file/kD4USYJQ#udVRaE_qmrilH7D5QK7A-kdUZucoWpMu6AzuwHMbKTc",
+      "https://mega.nz/file/BWAVEC4T#ofu-e2C1IUyqQmF8XlssXULLiy9HXQgrehDPxoRLnjg",
+      "https://mega.nz/file/YbgzGY6D#szACD29AEJF0zDe_-NmyHYubvlJXBBUFXqi9IcfTg5Y"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.5' IPS",
+    "resolution": "1920x1080",
+    "processor": "Apple A10",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-8-64gb-gold",
+    "namespaceId": "apple-iphone-8",
+    "name": "Apple iPhone 8 64GB Gold",
+    "capacityAvailable": ["64GB"],
+    "capacity": "64GB",
+    "priceRegular": 600,
+    "priceDiscount": 550,
+    "colorsAvailable": ["spacegray", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/VCpQ2RpR#sfrdMSTmT_NucZNktugBLP2h77ondXpIrhFW-Dww4ag",
+      "https://mega.nz/file/ADoXyaAB#tGbZIb0K7nbHFSqe54t5G1c6OWOPfRulW606kFMU3Lw",
+      "https://mega.nz/file/5aACRQwT#icL04g9NtMcw6NI62pawLTKuSxz16Ux7vQLrxaH4dFc",
+      "https://mega.nz/file/lXAwXCBa#iIx6WsciDeF1nEuPHmQlb2-prcHaRPY1-rEHFWagAsg"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "4.7' IPS",
+    "resolution": "1334x750",
+    "processor": "Apple A11 Bionic",
+    "ram": "2GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-8-64gb-silver",
+    "namespaceId": "apple-iphone-8",
+    "name": "Apple iPhone 8 64GB Silver",
+    "capacityAvailable": ["64GB"],
+    "capacity": "64GB",
+    "priceRegular": 600,
+    "priceDiscount": 550,
+    "colorsAvailable": ["spacegray", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/tSZzhDgT#atq3Do1U49pHSjmy6ILMN0JgVPJz-lZhmw4hLmz_jII",
+      "https://mega.nz/file/5C4VBaLT#_XdsinfW7W35jbdb4Eo8qQANbhf4shWwhl-PBXe-oEw",
+      "https://mega.nz/file/QLoRVDDC#NtNtUVpqYSfasIq10OzHX64di_FaCsvjGCes2retu_I",
+      "https://mega.nz/file/0LJCkbzQ#U_xM6YmsGHxe1D8_SpncQBKgtwgtcuDybHsDFbZ2GRU"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "4.7' IPS",
+    "resolution": "1334x750",
+    "processor": "Apple A11 Bionic",
+    "ram": "2GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-8-64gb-spacegray",
+    "namespaceId": "apple-iphone-8",
+    "name": "Apple iPhone 8 64GB Space Gray",
+    "capacityAvailable": ["64GB"],
+    "capacity": "64GB",
+    "priceRegular": 600,
+    "priceDiscount": 550,
+    "colorsAvailable": ["spacegray", "gold", "silver"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/9bpSGaQJ#dDK09BxSxh63CnLW8Cn5bFdNYh6AxnSBW3kt_BbPVZw",
+      "https://mega.nz/file/lKYHhRhI#gvj7Nccz-u4GkVbXcnFWf1IjNG88yQCQgVxxgNlnvok",
+      "https://mega.nz/file/YKwRwQCJ#yjA_kcwW5RETnCOPrx9cwvru9u0w-cP43T4eVlnuMMc",
+      "https://mega.nz/file/cDAFkBjZ#wGFbTUtv10yrZIFFjwvNU493MFD50EuXcAlg4C7HS1E"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "4.7' IPS",
+    "resolution": "1334x750",
+    "processor": "Apple A11 Bionic",
+    "ram": "2GB",
+    "camera": "12 Mp + 7 Mp",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-64gb-black",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 64GB Black",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 932,
+    "priceDiscount": 880,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "black",
+    "images": [
+      "https://mega.nz/file/1CAElTrY#vROLmZXpiYUFK7OUs84K5ziEhK-BkTrNM2j2inWHcJI",
+      "https://mega.nz/file/gL5UmKrA#OBd16eCYo3sOJlaifYBix_igJXP50jmkqvkxRg9-caQ",
+      "https://mega.nz/file/FTYFFSBB#jOF7i7pbe1fEBFwOFQxtgsFd6ik5t9n7zDuBxaDC63s",
+      "https://mega.nz/file/sGQyjByA#kJwo8Ao0tk2lzZy7iRwbYc_v6loDqj2Ydsng8LIFj-E",
+      "https://mega.nz/file/wWIygbJT#z3bAS6GuNK_DbFr_AX51me6DorxbfFEzK-A8NVi4vyI"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-64gb-green",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 64GB Green",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 932,
+    "priceDiscount": 880,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "green",
+    "images": [
+      "https://mega.nz/file/9fQwWIaC#YYu2uV8XeWZSTYHekHbqA5lplcWzqZK9JkT6iMqF8pU",
+      "https://mega.nz/file/1aYQWahT#t7UNI988Qw-bNtnMrgWWlDds1e2taT2BIHrPEgvksqM",
+      "https://mega.nz/file/JbBVBKbB#mW7ObRVz9LvuC3KjROg20eXCeeQ65s4EJ-RhNqhGgvc",
+      "https://mega.nz/file/lSw1nCiK#ZuookoAQIjCpdXfX0-pH82S784bz0ZHGwt0Vg7ZD-F0",
+      "https://mega.nz/file/NHwGwAjK#nwsstqNcjPbqcqU6mvY06cv4BB4xxTcXMpwnqTq4cIs"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-64gb-purple",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 64GB Purple",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 932,
+    "priceDiscount": 880,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "purple",
+    "images": [
+      "https://mega.nz/file/gOADwBII#EwDbWsdW0gytmE7TAv7bESBuKgnWWT_Gjtv4hLpMmcI",
+      "https://mega.nz/file/lX40ibzL#Bg2TiM5jbgzrU802kyGjdv0stVfaZxxFn5B7wy3CU3Y",
+      "https://mega.nz/file/AewyDQLC#QgUnPXtwxuMWxmPXdfjVJcFSfRYzA-9V_j8pTFSbDjk",
+      "https://mega.nz/file/IKRWwCLb#n3xTUEZHgdKdj5God-Ugj4JRWxTHK9jhNWMIKYYVU6Y",
+      "https://mega.nz/file/dORmXQYJ#LnhZ2Ch5b4s7GTiNoi10GTzx31gofioVvIJoYqkjS34"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-64gb-red",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 64GB Red",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 932,
+    "priceDiscount": 880,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "red",
+    "images": [
+      "https://mega.nz/file/RTQCCASI#Ugsqet-Sqw-JDP1vGf4SRFRdh_WS3yRsyZDa1SqilUo",
+      "https://mega.nz/file/AX5VyRxL#yN9H8EQr6O9xbajsKXa4qUHkxW-F7DAxZySuT7kS3HE",
+      "https://mega.nz/file/hLQBQRoZ#jAjdC7BF7c9i4yOE_Bo5A1BR4-nbeRuAYCSNmheTCSk",
+      "https://mega.nz/file/4GoGFABK#E-PUAWrCFnz-CWUUGO2CXuOi1GnPuWWNks3A9Gr7v8w",
+      "https://mega.nz/file/xeoQmQJT#cIXPsY5QDwsRU_aGsVfyB6cjHfODqOdy-486J3PBsM0"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-64gb-white",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 64GB White",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 932,
+    "priceDiscount": 880,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "white",
+    "images": [
+      "https://mega.nz/file/hDYBQBzC#0_-ABgPNlNau7v3Qh935_gg3zYeiHLoXXLe0FyzVcYg",
+      "https://mega.nz/file/oWBWxDoZ#jjFuGovkh_2w7dUC6YInPgiBE6Z2jypjQGIgfa3I_3Y",
+      "https://mega.nz/file/MOZRWYxA#FNdGLb1at_QkYImmMo_DwU5D7Nt434v_gIXSu0A6mwI",
+      "https://mega.nz/file/9ThAyYxY#Ub1DfFrIW6bXP_n8Vq6ZqhQbfvr4E2LP56frUlVr-rg",
+      "https://mega.nz/file/xDoiwAqS#Lz2zxnQ5uM-StKDkJuFDTfkUdJWZWvDmrr5HzqTIRCM"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-64gb-yellow",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 64GB Yellow",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 932,
+    "priceDiscount": 880,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "yellow",
+    "images": [
+      "https://mega.nz/file/Ma4TBLYT#n5hTGzTIi4DnhIvNRu9GS5LmZHoaxXt0RRoft8-pfvg",
+      "https://mega.nz/file/Ma4TBLYT#n5hTGzTIi4DnhIvNRu9GS5LmZHoaxXt0RRoft8-pfvg",
+      "https://mega.nz/file/4SgFzDzJ#bR3hC9rLGKlNeNZHmRGQwHtAfqevk7stgE811hoUtvE",
+      "https://mega.nz/file/JfR2TApK#t2OrKiSDjGqV_3hSR2SXq5k21Ricg6ly0cSN_e35u64",
+      "https://mega.nz/file/FLBgHDRL#J2KGInztZjfDcye8v0f_DutNxTOH0AQLLOIv0kTmb0k"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-128gb-black",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 128GB Black",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 1100,
+    "priceDiscount": 1050,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "black",
+    "images": [
+      "https://mega.nz/file/1CAElTrY#vROLmZXpiYUFK7OUs84K5ziEhK-BkTrNM2j2inWHcJI",
+      "https://mega.nz/file/gL5UmKrA#OBd16eCYo3sOJlaifYBix_igJXP50jmkqvkxRg9-caQ",
+      "https://mega.nz/file/FTYFFSBB#jOF7i7pbe1fEBFwOFQxtgsFd6ik5t9n7zDuBxaDC63s",
+      "https://mega.nz/file/sGQyjByA#kJwo8Ao0tk2lzZy7iRwbYc_v6loDqj2Ydsng8LIFj-E",
+      "https://mega.nz/file/wWIygbJT#z3bAS6GuNK_DbFr_AX51me6DorxbfFEzK-A8NVi4vyI"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-128gb-green",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 128GB Green",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 1100,
+    "priceDiscount": 1050,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "green",
+    "images": [
+      "https://mega.nz/file/9fQwWIaC#YYu2uV8XeWZSTYHekHbqA5lplcWzqZK9JkT6iMqF8pU",
+      "https://mega.nz/file/1aYQWahT#t7UNI988Qw-bNtnMrgWWlDds1e2taT2BIHrPEgvksqM",
+      "https://mega.nz/file/JbBVBKbB#mW7ObRVz9LvuC3KjROg20eXCeeQ65s4EJ-RhNqhGgvc",
+      "https://mega.nz/file/lSw1nCiK#ZuookoAQIjCpdXfX0-pH82S784bz0ZHGwt0Vg7ZD-F0",
+      "https://mega.nz/file/NHwGwAjK#nwsstqNcjPbqcqU6mvY06cv4BB4xxTcXMpwnqTq4cIs"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-128gb-purple",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 128GB Purple",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 1100,
+    "priceDiscount": 1050,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "purple",
+    "images": [
+      "https://mega.nz/file/gOADwBII#EwDbWsdW0gytmE7TAv7bESBuKgnWWT_Gjtv4hLpMmcI",
+      "https://mega.nz/file/lX40ibzL#Bg2TiM5jbgzrU802kyGjdv0stVfaZxxFn5B7wy3CU3Y",
+      "https://mega.nz/file/AewyDQLC#QgUnPXtwxuMWxmPXdfjVJcFSfRYzA-9V_j8pTFSbDjk",
+      "https://mega.nz/file/IKRWwCLb#n3xTUEZHgdKdj5God-Ugj4JRWxTHK9jhNWMIKYYVU6Y",
+      "https://mega.nz/file/dORmXQYJ#LnhZ2Ch5b4s7GTiNoi10GTzx31gofioVvIJoYqkjS34"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-128gb-red",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 128GB Red",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 1100,
+    "priceDiscount": 1050,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "red",
+    "images": [
+      "https://mega.nz/file/RTQCCASI#Ugsqet-Sqw-JDP1vGf4SRFRdh_WS3yRsyZDa1SqilUo",
+      "https://mega.nz/file/AX5VyRxL#yN9H8EQr6O9xbajsKXa4qUHkxW-F7DAxZySuT7kS3HE",
+      "https://mega.nz/file/hLQBQRoZ#jAjdC7BF7c9i4yOE_Bo5A1BR4-nbeRuAYCSNmheTCSk",
+      "https://mega.nz/file/4GoGFABK#E-PUAWrCFnz-CWUUGO2CXuOi1GnPuWWNks3A9Gr7v8w",
+      "https://mega.nz/file/xeoQmQJT#cIXPsY5QDwsRU_aGsVfyB6cjHfODqOdy-486J3PBsM0"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-128gb-white",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 128GB White",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 1100,
+    "priceDiscount": 1050,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "white",
+    "images": [
+      "https://mega.nz/file/hDYBQBzC#0_-ABgPNlNau7v3Qh935_gg3zYeiHLoXXLe0FyzVcYg",
+      "https://mega.nz/file/oWBWxDoZ#jjFuGovkh_2w7dUC6YInPgiBE6Z2jypjQGIgfa3I_3Y",
+      "https://mega.nz/file/MOZRWYxA#FNdGLb1at_QkYImmMo_DwU5D7Nt434v_gIXSu0A6mwI",
+      "https://mega.nz/file/9ThAyYxY#Ub1DfFrIW6bXP_n8Vq6ZqhQbfvr4E2LP56frUlVr-rg",
+      "https://mega.nz/file/xDoiwAqS#Lz2zxnQ5uM-StKDkJuFDTfkUdJWZWvDmrr5HzqTIRCM"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-128gb-yellow",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 128GB Yellow",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "128GB",
+    "priceRegular": 1100,
+    "priceDiscount": 1050,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "yellow",
+    "images": [
+      "https://mega.nz/file/Ma4TBLYT#n5hTGzTIi4DnhIvNRu9GS5LmZHoaxXt0RRoft8-pfvg",
+      "https://mega.nz/file/EaBjEQTZ#4VYS8_AKJqvG7N3vewrTFBZlWZc8khcctmj3Dkor3LM",
+      "https://mega.nz/file/4SgFzDzJ#bR3hC9rLGKlNeNZHmRGQwHtAfqevk7stgE811hoUtvE",
+      "https://mega.nz/file/JfR2TApK#t2OrKiSDjGqV_3hSR2SXq5k21Ricg6ly0cSN_e35u64",
+      "https://mega.nz/file/FLBgHDRL#J2KGInztZjfDcye8v0f_DutNxTOH0AQLLOIv0kTmb0k"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-256gb-black",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 256GB Black",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1172,
+    "priceDiscount": 1115,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "black",
+    "images": [
+      "https://mega.nz/file/1CAElTrY#vROLmZXpiYUFK7OUs84K5ziEhK-BkTrNM2j2inWHcJI",
+      "https://mega.nz/file/gL5UmKrA#OBd16eCYo3sOJlaifYBix_igJXP50jmkqvkxRg9-caQ",
+      "https://mega.nz/file/FTYFFSBB#jOF7i7pbe1fEBFwOFQxtgsFd6ik5t9n7zDuBxaDC63s",
+      "https://mega.nz/file/sGQyjByA#kJwo8Ao0tk2lzZy7iRwbYc_v6loDqj2Ydsng8LIFj-E",
+      "https://mega.nz/file/wWIygbJT#z3bAS6GuNK_DbFr_AX51me6DorxbfFEzK-A8NVi4vyI"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-256gb-green",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 256GB Green",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1172,
+    "priceDiscount": 1115,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "green",
+    "images": [
+      "https://mega.nz/file/9fQwWIaC#YYu2uV8XeWZSTYHekHbqA5lplcWzqZK9JkT6iMqF8pU",
+      "https://mega.nz/file/1aYQWahT#t7UNI988Qw-bNtnMrgWWlDds1e2taT2BIHrPEgvksqM",
+      "https://mega.nz/file/JbBVBKbB#mW7ObRVz9LvuC3KjROg20eXCeeQ65s4EJ-RhNqhGgvc",
+      "https://mega.nz/file/lSw1nCiK#ZuookoAQIjCpdXfX0-pH82S784bz0ZHGwt0Vg7ZD-F0",
+      "https://mega.nz/file/NHwGwAjK#nwsstqNcjPbqcqU6mvY06cv4BB4xxTcXMpwnqTq4cIs"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-256gb-purple",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 256GB Purple",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1172,
+    "priceDiscount": 1115,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "purple",
+    "images": [
+      "https://mega.nz/file/gOADwBII#EwDbWsdW0gytmE7TAv7bESBuKgnWWT_Gjtv4hLpMmcI",
+      "https://mega.nz/file/lX40ibzL#Bg2TiM5jbgzrU802kyGjdv0stVfaZxxFn5B7wy3CU3Y",
+      "https://mega.nz/file/AewyDQLC#QgUnPXtwxuMWxmPXdfjVJcFSfRYzA-9V_j8pTFSbDjk",
+      "https://mega.nz/file/IKRWwCLb#n3xTUEZHgdKdj5God-Ugj4JRWxTHK9jhNWMIKYYVU6Y",
+      "https://mega.nz/file/dORmXQYJ#LnhZ2Ch5b4s7GTiNoi10GTzx31gofioVvIJoYqkjS34"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-256gb-red",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 256GB Red",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1172,
+    "priceDiscount": 1115,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "red",
+    "images": [
+      "https://mega.nz/file/RTQCCASI#Ugsqet-Sqw-JDP1vGf4SRFRdh_WS3yRsyZDa1SqilUo",
+      "https://mega.nz/file/AX5VyRxL#yN9H8EQr6O9xbajsKXa4qUHkxW-F7DAxZySuT7kS3HE",
+      "https://mega.nz/file/hLQBQRoZ#jAjdC7BF7c9i4yOE_Bo5A1BR4-nbeRuAYCSNmheTCSk",
+      "https://mega.nz/file/4GoGFABK#E-PUAWrCFnz-CWUUGO2CXuOi1GnPuWWNks3A9Gr7v8w",
+      "https://mega.nz/file/xeoQmQJT#cIXPsY5QDwsRU_aGsVfyB6cjHfODqOdy-486J3PBsM0"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-256gb-white",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 256GB White",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1172,
+    "priceDiscount": 1115,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "white",
+    "images": [
+      "https://mega.nz/file/hDYBQBzC#0_-ABgPNlNau7v3Qh935_gg3zYeiHLoXXLe0FyzVcYg",
+      "https://mega.nz/file/oWBWxDoZ#jjFuGovkh_2w7dUC6YInPgiBE6Z2jypjQGIgfa3I_3Y",
+      "https://mega.nz/file/MOZRWYxA#FNdGLb1at_QkYImmMo_DwU5D7Nt434v_gIXSu0A6mwI",
+      "https://mega.nz/file/9ThAyYxY#Ub1DfFrIW6bXP_n8Vq6ZqhQbfvr4E2LP56frUlVr-rg",
+      "https://mega.nz/file/xDoiwAqS#Lz2zxnQ5uM-StKDkJuFDTfkUdJWZWvDmrr5HzqTIRCM"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-256gb-yellow",
+    "namespaceId": "apple-iphone-11",
+    "name": "Apple iPhone 11 256GB Yellow",
+    "capacityAvailable": ["64GB", "128GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1172,
+    "priceDiscount": 1115,
+    "colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
+    "color": "yellow",
+    "images": [
+      "https://mega.nz/file/Ma4TBLYT#n5hTGzTIi4DnhIvNRu9GS5LmZHoaxXt0RRoft8-pfvg",
+      "https://mega.nz/file/EaBjEQTZ#4VYS8_AKJqvG7N3vewrTFBZlWZc8khcctmj3Dkor3LM",
+      "https://mega.nz/file/4SgFzDzJ#bR3hC9rLGKlNeNZHmRGQwHtAfqevk7stgE811hoUtvE",
+      "https://mega.nz/file/JfR2TApK#t2OrKiSDjGqV_3hSR2SXq5k21Ricg6ly0cSN_e35u64",
+      "https://mega.nz/file/FLBgHDRL#J2KGInztZjfDcye8v0f_DutNxTOH0AQLLOIv0kTmb0k"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792x828",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-64gb-gold",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 64GB Gold",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "64GB",
+    "priceRegular": 1312,
+    "priceDiscount": 1270,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/0OBVDKgI#jEyoL-tKz7lRPv0qoOlP_qrxdvdEq5Poo0lCb-MGGws",
+      "https://mega.nz/file/MHhwjDrT#2C-Uvl90ZLbkMLrHeJI5OxlVS51Svl9C7X6PqzMDZTA",
+      "https://mega.nz/file/0ex2DAyJ#sW-e2jpiBw1QcCm_WZ0WNx8lZkM1aGlx2Z_gTB2ib-Q"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-64gb-midnightgreen",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 64GB Midnight green",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "64GB",
+    "priceRegular": 1312,
+    "priceDiscount": 1270,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "midnightgreen",
+    "images": [
+      "https://mega.nz/file/sTpFQIiQ#1eKLcfP3ulq14Qilr6lKKUWfAAwZY75oDQjSIo3cGac",
+      "https://mega.nz/file/ReZmlSSY#0xhoJd9A1ZAG04JdgZs5M4URZ5SR7JhANizL1l5p-iw",
+      "https://mega.nz/file/IHYjhZza#uGkgKPiRCg5iYVZGnGNXV011dn-UXg07w0EcyrcmYRQ",
+      "https://mega.nz/file/AfBzCawa#fXKfAy_Sl3zXIQDhqWPJ88ARI2OdLcyGIEZk9Tzlmm0"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-64gb-silver",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 64GB Silver",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "64GB",
+    "priceRegular": 1312,
+    "priceDiscount": 1270,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/ceIEzJYb#o81oU6gUSjVZjjFC1_O9P_fPj77IXDz2qsESWRsZiT4",
+      "https://mega.nz/file/QXgCVRRC#4kD9ARbjIIrgfWxVWtqLgwNjOJ6RD1uvz2GqngtaeQI",
+      "https://mega.nz/file/ZCRnzRhQ#zbAMTGHlgUrQmT2ewL5Oaly1CezLGfkHOEtphEahM-U"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-64gb-spacegray",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 64GB Spacegray",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "64GB",
+    "priceRegular": 1312,
+    "priceDiscount": 1270,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/BORz1LjR#dyUPT9XsTRr6-_ORpEWW2QFIiyUEaV9yB16zTctWq-I",
+      "https://mega.nz/file/xPZAGCSD#dbq1031sjATDST0yOfMAqdEuj8q2ja3cM9z_-1PcFKc",
+      "https://mega.nz/file/RXoRxbzT#ifOM5ycovTS-Cdi7vbxEq7hX1utzXieiOZriUqI76K8"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-256gb-gold",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 256GB Gold",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "256GB",
+    "priceRegular": 1640,
+    "priceDiscount": 1570,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/0OBVDKgI#jEyoL-tKz7lRPv0qoOlP_qrxdvdEq5Poo0lCb-MGGws",
+      "https://mega.nz/file/MHhwjDrT#2C-Uvl90ZLbkMLrHeJI5OxlVS51Svl9C7X6PqzMDZTA",
+      "https://mega.nz/file/0ex2DAyJ#sW-e2jpiBw1QcCm_WZ0WNx8lZkM1aGlx2Z_gTB2ib-Q"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-256gb-midnightgreen",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 256GB Midnight green",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "256GB",
+    "priceRegular": 1640,
+    "priceDiscount": 1570,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "midnightgreen",
+    "images": [
+      "https://mega.nz/file/sTpFQIiQ#1eKLcfP3ulq14Qilr6lKKUWfAAwZY75oDQjSIo3cGac",
+      "https://mega.nz/file/ReZmlSSY#0xhoJd9A1ZAG04JdgZs5M4URZ5SR7JhANizL1l5p-iw",
+      "https://mega.nz/file/IHYjhZza#uGkgKPiRCg5iYVZGnGNXV011dn-UXg07w0EcyrcmYRQ",
+      "https://mega.nz/file/AfBzCawa#fXKfAy_Sl3zXIQDhqWPJ88ARI2OdLcyGIEZk9Tzlmm0"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-256gb-silver",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 256GB Silver",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "256GB",
+    "priceRegular": 1640,
+    "priceDiscount": 1570,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/ceIEzJYb#o81oU6gUSjVZjjFC1_O9P_fPj77IXDz2qsESWRsZiT4",
+      "https://mega.nz/file/QXgCVRRC#4kD9ARbjIIrgfWxVWtqLgwNjOJ6RD1uvz2GqngtaeQI",
+      "https://mega.nz/file/ZCRnzRhQ#zbAMTGHlgUrQmT2ewL5Oaly1CezLGfkHOEtphEahM-U"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-256gb-spacegray",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 256GB Spacegray",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "256GB",
+    "priceRegular": 1640,
+    "priceDiscount": 1570,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/BORz1LjR#dyUPT9XsTRr6-_ORpEWW2QFIiyUEaV9yB16zTctWq-I",
+      "https://mega.nz/file/xPZAGCSD#dbq1031sjATDST0yOfMAqdEuj8q2ja3cM9z_-1PcFKc",
+      "https://mega.nz/file/RXoRxbzT#ifOM5ycovTS-Cdi7vbxEq7hX1utzXieiOZriUqI76K8"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-512gb-gold",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 512GB Gold",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "512GB",
+    "priceRegular": 1880,
+    "priceDiscount": 1780,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/0OBVDKgI#jEyoL-tKz7lRPv0qoOlP_qrxdvdEq5Poo0lCb-MGGws",
+      "https://mega.nz/file/MHhwjDrT#2C-Uvl90ZLbkMLrHeJI5OxlVS51Svl9C7X6PqzMDZTA",
+      "https://mega.nz/file/0ex2DAyJ#sW-e2jpiBw1QcCm_WZ0WNx8lZkM1aGlx2Z_gTB2ib-Q"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-512gb-midnightgreen",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 512GB Midnight green",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "512GB",
+    "priceRegular": 1880,
+    "priceDiscount": 1780,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "midnightgreen",
+    "images": [
+      "https://mega.nz/file/sTpFQIiQ#1eKLcfP3ulq14Qilr6lKKUWfAAwZY75oDQjSIo3cGac",
+      "https://mega.nz/file/ReZmlSSY#0xhoJd9A1ZAG04JdgZs5M4URZ5SR7JhANizL1l5p-iw",
+      "https://mega.nz/file/IHYjhZza#uGkgKPiRCg5iYVZGnGNXV011dn-UXg07w0EcyrcmYRQ",
+      "https://mega.nz/file/AfBzCawa#fXKfAy_Sl3zXIQDhqWPJ88ARI2OdLcyGIEZk9Tzlmm0"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-512gb-silver",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 512GB Silver",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "512GB",
+    "priceRegular": 1880,
+    "priceDiscount": 1780,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/ceIEzJYb#o81oU6gUSjVZjjFC1_O9P_fPj77IXDz2qsESWRsZiT4",
+      "https://mega.nz/file/QXgCVRRC#4kD9ARbjIIrgfWxVWtqLgwNjOJ6RD1uvz2GqngtaeQI",
+      "https://mega.nz/file/ZCRnzRhQ#zbAMTGHlgUrQmT2ewL5Oaly1CezLGfkHOEtphEahM-U"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-512gb-spacegray",
+    "namespaceId": "apple-iphone-11-pro",
+    "name": "Apple iPhone 11 Pro 512GB Spacegray",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "512GB",
+    "priceRegular": 1880,
+    "priceDiscount": 1780,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/BORz1LjR#dyUPT9XsTRr6-_ORpEWW2QFIiyUEaV9yB16zTctWq-I",
+      "https://mega.nz/file/xPZAGCSD#dbq1031sjATDST0yOfMAqdEuj8q2ja3cM9z_-1PcFKc",
+      "https://mega.nz/file/RXoRxbzT#ifOM5ycovTS-Cdi7vbxEq7hX1utzXieiOZriUqI76K8"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-64gb-gold",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 64GB Gold",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "64GB",
+    "priceRegular": 1480,
+    "priceDiscount": 1400,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/NaYFnTZL#XAwI8x558KZ4Jsemzrp_RsYbBDSg-k6yTaEOlJkT0G0",
+      "https://mega.nz/file/NG4lnLzK#WjbZRSbBS1b28U-WGmEulma1NORl7k0SUbpP4A5SQVM",
+      "https://mega.nz/file/ZSZ2BSrZ#1XQaJe-zO6VlqFCS1dd2JDHJhQrBz_S4IYBwDm4AS7o"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-64gb-midnightgreen",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 64GB Midnightgreen",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "64GB",
+    "priceRegular": 1480,
+    "priceDiscount": 1400,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "midnightgreen",
+    "images": [
+      "https://mega.nz/file/tW4iFaqZ#7rO1LNd96SOVfnvf1M9hRmaWmTqaNmBxe4f7ULZBwvg",
+      "https://mega.nz/file/MKxwGCbI#aQoAUXybaAPlqWIlQiWNnAW2Hy6C4gCA18874Xoa1tM",
+      "https://mega.nz/file/0TZVTLpa#lzOsc_nYuckYaS9Umq6EjrnsCPtZE2z6luk0c2m1sdM"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-64gb-silver",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 64GB Silver",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "64GB",
+    "priceRegular": 1480,
+    "priceDiscount": 1400,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/0KpwXbgT#YFz2poK2BLlTRpKDkjEpoV-IbSs0y37c1YQe3f8v2LY",
+      "https://mega.nz/file/BCwGUKYb#v36zzbS3JGjYiZnnwSCKH7rXI-iPoxTv51j2TADEZUk",
+      "https://mega.nz/file/QPw1ALwA#RvVPsSoeohYR3oESE1iQS8p-c1tm6U2rV1PnKLXAn10"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-64gb-spacegray",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 64GB Spacegray",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "64GB",
+    "priceRegular": 1480,
+    "priceDiscount": 1400,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/IWwgwQYb#kFVXiklrF11hkbQSgfPJigSLZdUzfMaTjTD_OHhks-c",
+      "https://mega.nz/file/geg2FSaQ#4gsgVjwqyW7nvdHnAfzMspybWAWXaERxQ01F9siKWPU",
+      "https://mega.nz/file/VGJh3JpQ#s1ivBZ4-cPzxGZ0_tiqn5_MgbBQ4LJae2NsNlyuS-IY"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-256gb-gold",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 256GB Gold",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "256GB",
+    "priceRegular": 1776,
+    "priceDiscount": 1680,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/NaYFnTZL#XAwI8x558KZ4Jsemzrp_RsYbBDSg-k6yTaEOlJkT0G0",
+      "https://mega.nz/file/NG4lnLzK#WjbZRSbBS1b28U-WGmEulma1NORl7k0SUbpP4A5SQVM",
+      "https://mega.nz/file/ZSZ2BSrZ#1XQaJe-zO6VlqFCS1dd2JDHJhQrBz_S4IYBwDm4AS7o"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-256gb-midnightgreen",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 256GB Midnightgreen",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "256GB",
+    "priceRegular": 1776,
+    "priceDiscount": 1680,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "midnightgreen",
+    "images": [
+      "https://mega.nz/file/tW4iFaqZ#7rO1LNd96SOVfnvf1M9hRmaWmTqaNmBxe4f7ULZBwvg",
+      "https://mega.nz/file/MKxwGCbI#aQoAUXybaAPlqWIlQiWNnAW2Hy6C4gCA18874Xoa1tM",
+      "https://mega.nz/file/0TZVTLpa#lzOsc_nYuckYaS9Umq6EjrnsCPtZE2z6luk0c2m1sdM"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-256gb-silver",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 256GB Silver",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "256GB",
+    "priceRegular": 1776,
+    "priceDiscount": 1680,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/0KpwXbgT#YFz2poK2BLlTRpKDkjEpoV-IbSs0y37c1YQe3f8v2LY",
+      "https://mega.nz/file/BCwGUKYb#v36zzbS3JGjYiZnnwSCKH7rXI-iPoxTv51j2TADEZUk",
+      "https://mega.nz/file/QPw1ALwA#RvVPsSoeohYR3oESE1iQS8p-c1tm6U2rV1PnKLXAn10"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-256gb-spacegray",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 256GB Spacegray",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "256GB",
+    "priceRegular": 1776,
+    "priceDiscount": 1680,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/IWwgwQYb#kFVXiklrF11hkbQSgfPJigSLZdUzfMaTjTD_OHhks-c",
+      "https://mega.nz/file/geg2FSaQ#4gsgVjwqyW7nvdHnAfzMspybWAWXaERxQ01F9siKWPU",
+      "https://mega.nz/file/VGJh3JpQ#s1ivBZ4-cPzxGZ0_tiqn5_MgbBQ4LJae2NsNlyuS-IY"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-512gb-gold",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 512GB Gold",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "512GB",
+    "priceRegular": 2020,
+    "priceDiscount": 1930,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/NaYFnTZL#XAwI8x558KZ4Jsemzrp_RsYbBDSg-k6yTaEOlJkT0G0",
+      "https://mega.nz/file/NG4lnLzK#WjbZRSbBS1b28U-WGmEulma1NORl7k0SUbpP4A5SQVM",
+      "https://mega.nz/file/ZSZ2BSrZ#1XQaJe-zO6VlqFCS1dd2JDHJhQrBz_S4IYBwDm4AS7o"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-512gb-midnightgreen",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 512GB Midnightgreen",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "512GB",
+    "priceRegular": 2020,
+    "priceDiscount": 1930,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "midnightgreen",
+    "images": [
+      "https://mega.nz/file/tW4iFaqZ#7rO1LNd96SOVfnvf1M9hRmaWmTqaNmBxe4f7ULZBwvg",
+      "https://mega.nz/file/MKxwGCbI#aQoAUXybaAPlqWIlQiWNnAW2Hy6C4gCA18874Xoa1tM",
+      "https://mega.nz/file/0TZVTLpa#lzOsc_nYuckYaS9Umq6EjrnsCPtZE2z6luk0c2m1sdM"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-512gb-silver",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 512GB Silver",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "512GB",
+    "priceRegular": 2020,
+    "priceDiscount": 1930,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/0KpwXbgT#YFz2poK2BLlTRpKDkjEpoV-IbSs0y37c1YQe3f8v2LY",
+      "https://mega.nz/file/BCwGUKYb#v36zzbS3JGjYiZnnwSCKH7rXI-iPoxTv51j2TADEZUk",
+      "https://mega.nz/file/QPw1ALwA#RvVPsSoeohYR3oESE1iQS8p-c1tm6U2rV1PnKLXAn10"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-11-pro-max-512gb-spacegray",
+    "namespaceId": "apple-iphone-11-pro-max",
+    "name": "Apple iPhone 11 Pro Max 512GB Spacegray",
+    "capacityAvailable": ["64GB", "256GB", "512GB"],
+    "capacity": "512GB",
+    "priceRegular": 2020,
+    "priceDiscount": 1930,
+    "colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/IWwgwQYb#kFVXiklrF11hkbQSgfPJigSLZdUzfMaTjTD_OHhks-c",
+      "https://mega.nz/file/geg2FSaQ#4gsgVjwqyW7nvdHnAfzMspybWAWXaERxQ01F9siKWPU",
+      "https://mega.nz/file/VGJh3JpQ#s1ivBZ4-cPzxGZ0_tiqn5_MgbBQ4LJae2NsNlyuS-IY"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED",
+    "resolution": "2688х1242",
+    "processor": "Apple A13 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xr-64gb-coral",
+    "namespaceId": "apple-iphone-xr",
+    "name": "Apple iPhone XR 64GB Coral",
+    "capacityAvailable": ["64GB", "128GB"],
+    "capacity": "64GB",
+    "priceRegular": 712,
+    "priceDiscount": 670,
+    "colorsAvailable": ["white", "yellow", "red", "coral"],
+    "color": "coral",
+    "images": [
+      "https://mega.nz/file/9KognZAI#Z5etx08rZS4rkHKxZXd8VYy71dPMu220ei83nFM7yCE",
+      "https://mega.nz/file/UeQUSJKT#oYAk0l_t7FaQUlZ5qQHcrKEE6Bbz4fA75RGq_P0Cqog",
+      "https://mega.nz/file/gCQG0I4I#LCIbhQ4TPh8scILjEQmVCc1QBpoPf1YP3cMvzUkkX1Q"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792х828",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xr-64gb-red",
+    "namespaceId": "apple-iphone-xr",
+    "name": "Apple iPhone XR 64GB Red",
+    "capacityAvailable": ["64GB", "128GB"],
+    "capacity": "64GB",
+    "priceRegular": 712,
+    "priceDiscount": 670,
+    "colorsAvailable": ["white", "yellow", "red", "coral"],
+    "color": "red",
+    "images": [
+      "https://mega.nz/file/oSBVBbSb#3V81Nf1w0VNhX3bQhR3vM-zdQsz_2GtYHeY4PGmPu8w",
+      "https://mega.nz/file/cORxWahY#eOzvO-gTvvTM7yweDNjC3rfNDKjF_uYEQMbyZVCYgXo",
+      "https://mega.nz/file/FCAlkIJI#nnkIM3qm8a-oiFufTcF9qf4NarldK2FLXVvPlynYFgs",
+      "https://mega.nz/file/wOp0RLZK#kLQggc8Y0iBX8vEIIzskWw1ujlJcCxveTmlkRImAK5w",
+      "https://mega.nz/file/lKRzhBDT#CTz7Mrj-LNhF4d41qwHpkCtz-fVdm4HGsYLLe5hQDSA"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792х828",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xr-64gb-white",
+    "namespaceId": "apple-iphone-xr",
+    "name": "Apple iPhone XR 64GB White",
+    "capacityAvailable": ["64GB", "128GB"],
+    "capacity": "64GB",
+    "priceRegular": 712,
+    "priceDiscount": 670,
+    "colorsAvailable": ["white", "yellow", "red", "coral"],
+    "color": "white",
+    "images": [
+      "https://mega.nz/file/wGhDDQqC#Gaa3ss8L_NWzFGulJz4pGgjo8fQwu9wqNcvwFMprfKY",
+      "https://mega.nz/file/BGgF2KxQ#8WKStb2pYktrtiPhn0poIohcDObqYrNTBR6M7EtaW7Q",
+      "https://mega.nz/file/EKRhlALY#Ei51FlUqq17IzEi7uC7rsLWWpIGinhhJJbR5C2FlcDs",
+      "https://mega.nz/file/ZHZggI7A#GJifW_ydHvSQsOSA1MROpd-wv9PlMla9fSqSrX0CrcE"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792х828",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xr-64gb-yellow",
+    "namespaceId": "apple-iphone-xr",
+    "name": "Apple iPhone XR 64GB Yellow",
+    "capacityAvailable": ["64GB", "128GB"],
+    "capacity": "64GB",
+    "priceRegular": 712,
+    "priceDiscount": 670,
+    "colorsAvailable": ["white", "yellow", "red", "coral"],
+    "color": "yellow",
+    "images": [
+      "https://mega.nz/file/1GBQzBCb#jLBLr4plickBWZ8vcBHzegSbd2IkgmonzwqcCTcVyHk",
+      "https://mega.nz/file/kXIxkCBA#CTT_3JqVF_uIB0r4SX4rOVZsMxBz9VCB5OeW9BaODz8",
+      "https://mega.nz/file/1SJgQQAR#tsVR3P2JAAVG4-POdWn7XnZN1zlsxczrz1CTjCCxHU0",
+      "https://mega.nz/file/wG4jlaiY#RlyOs4mXq8YczMqyPCBXTZnJ194VM2f8Yvh-rDd0X7g",
+      "https://mega.nz/file/ZHpHBAzC#wm9GLZ78oedSMAJfo1hL3bItQC_HDLkG_LsLaOgNBhE"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792х828",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xr-128gb-coral",
+    "namespaceId": "apple-iphone-xr",
+    "name": "Apple iPhone XR 128GB Coral",
+    "capacityAvailable": ["64GB", "128GB"],
+    "capacity": "128GB",
+    "priceRegular": 880,
+    "priceDiscount": 815,
+    "colorsAvailable": ["white", "yellow", "red", "coral"],
+    "color": "coral",
+    "images": [
+      "https://mega.nz/file/9KognZAI#Z5etx08rZS4rkHKxZXd8VYy71dPMu220ei83nFM7yCE",
+      "https://mega.nz/file/UeQUSJKT#oYAk0l_t7FaQUlZ5qQHcrKEE6Bbz4fA75RGq_P0Cqog",
+      "https://mega.nz/file/gCQG0I4I#LCIbhQ4TPh8scILjEQmVCc1QBpoPf1YP3cMvzUkkX1Q"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792х828",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xr-128gb-red",
+    "namespaceId": "apple-iphone-xr",
+    "name": "Apple iPhone XR 128GB Red",
+    "capacityAvailable": ["64GB", "128GB"],
+    "capacity": "128GB",
+    "priceRegular": 880,
+    "priceDiscount": 815,
+    "colorsAvailable": ["white", "yellow", "red", "coral"],
+    "color": "red",
+    "images": [
+      "https://mega.nz/file/oSBVBbSb#3V81Nf1w0VNhX3bQhR3vM-zdQsz_2GtYHeY4PGmPu8w",
+      "https://mega.nz/file/cORxWahY#eOzvO-gTvvTM7yweDNjC3rfNDKjF_uYEQMbyZVCYgXo",
+      "https://mega.nz/file/FCAlkIJI#nnkIM3qm8a-oiFufTcF9qf4NarldK2FLXVvPlynYFgs",
+      "https://mega.nz/file/wOp0RLZK#kLQggc8Y0iBX8vEIIzskWw1ujlJcCxveTmlkRImAK5w",
+      "https://mega.nz/file/lKRzhBDT#CTz7Mrj-LNhF4d41qwHpkCtz-fVdm4HGsYLLe5hQDSA"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792х828",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xr-128gb-white",
+    "namespaceId": "apple-iphone-xr",
+    "name": "Apple iPhone XR 128GB White",
+    "capacityAvailable": ["64GB", "128GB"],
+    "capacity": "128GB",
+    "priceRegular": 880,
+    "priceDiscount": 815,
+    "colorsAvailable": ["white", "yellow", "red", "coral"],
+    "color": "white",
+    "images": [
+      "https://mega.nz/file/wGhDDQqC#Gaa3ss8L_NWzFGulJz4pGgjo8fQwu9wqNcvwFMprfKY",
+      "https://mega.nz/file/BGgF2KxQ#8WKStb2pYktrtiPhn0poIohcDObqYrNTBR6M7EtaW7Q",
+      "https://mega.nz/file/EKRhlALY#Ei51FlUqq17IzEi7uC7rsLWWpIGinhhJJbR5C2FlcDs",
+      "https://mega.nz/file/ZHZggI7A#GJifW_ydHvSQsOSA1MROpd-wv9PlMla9fSqSrX0CrcE"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792х828",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xr-128gb-yellow",
+    "namespaceId": "apple-iphone-xr",
+    "name": "Apple iPhone XR 128GB Yellow",
+    "capacityAvailable": ["64GB", "128GB"],
+    "capacity": "128GB",
+    "priceRegular": 880,
+    "priceDiscount": 815,
+    "colorsAvailable": ["white", "yellow", "red", "coral"],
+    "color": "yellow",
+    "images": [
+      "https://mega.nz/file/1GBQzBCb#jLBLr4plickBWZ8vcBHzegSbd2IkgmonzwqcCTcVyHk",
+      "https://mega.nz/file/kXIxkCBA#CTT_3JqVF_uIB0r4SX4rOVZsMxBz9VCB5OeW9BaODz8",
+      "https://mega.nz/file/1SJgQQAR#tsVR3P2JAAVG4-POdWn7XnZN1zlsxczrz1CTjCCxHU0",
+      "https://mega.nz/file/wG4jlaiY#RlyOs4mXq8YczMqyPCBXTZnJ194VM2f8Yvh-rDd0X7g",
+      "https://mega.nz/file/ZHpHBAzC#wm9GLZ78oedSMAJfo1hL3bItQC_HDLkG_LsLaOgNBhE"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.1' IPS",
+    "resolution": "1792х828",
+    "processor": "Apple A12 Bionic",
+    "ram": "3GB",
+    "camera": "12 Mp + 7 MP",
+    "zoom": "Digital, 5x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xs-64gb-gold",
+    "namespaceId": "apple-iphone-xs",
+    "name": "Apple iPhone XS 64GB Gold",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 760,
+    "priceDiscount": 720,
+    "colorsAvailable": ["spacegray", "gold"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/VHghgZJS#FpUbZIugumGNo9Fg7x30wZzUmp8hB2cDBBv_LEXEEQI",
+      "https://mega.nz/file/0DIXDSYS#9pTev6Cem-LSzM_CD02X2oleg9tKfEyqESOeBm5lq-E",
+      "https://mega.nz/file/MP4zRQgC#Yd5NdtyDgTVfG8ArcdUGwhsX3__NjwTXYGgMy5NxbdM",
+      "https://mega.nz/file/QO4HSajY#t2fiPcUEc9-TVCHfZVhB_o2VnqdIMltmex4-GHB-9pQ",
+      "https://mega.nz/file/kDx0yTCZ#OWOSTEfryx7ITxBOkQX6BvHxnQYEG3pEUIF4BFsK8K8"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A12 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xs-64gb-spacegray",
+    "namespaceId": "apple-iphone-xs",
+    "name": "Apple iPhone XS 64GB Spacegray",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 760,
+    "priceDiscount": 720,
+    "colorsAvailable": ["spacegray", "gold"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/deRRTTja#phHkaJ2drM7D0iFxpz8Uou6YFzwHyab1AZro6oobE5k",
+      "https://mega.nz/file/tbYDgQSa#7eRGwm-sgvZ56Aq6Ek9BkM4_G0YPxlGkce3rETqMEC4",
+      "https://mega.nz/file/QSIxGb5C#GkVI5-YJ2X_5EXeO1qFR0Vqb2FI7JW2SdUrr00GG1wk",
+      "https://mega.nz/file/hWQEUIzJ#zSX34JaP1Gt7-8m-YHoJVdfCSATAhXR_ct-8MnM57Y0",
+      "https://mega.nz/file/VaAzAZYI#jIVCLzVA2XS1-u2506hgIxj59NR98RNut-EHAn0ryzM"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A12 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xs-256gb-gold",
+    "namespaceId": "apple-iphone-xs",
+    "name": "Apple iPhone XS 256GB Gold",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 960,
+    "priceDiscount": 900,
+    "colorsAvailable": ["spacegray", "gold"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/VHghgZJS#FpUbZIugumGNo9Fg7x30wZzUmp8hB2cDBBv_LEXEEQI",
+      "https://mega.nz/file/0DIXDSYS#9pTev6Cem-LSzM_CD02X2oleg9tKfEyqESOeBm5lq-E",
+      "https://mega.nz/file/MP4zRQgC#Yd5NdtyDgTVfG8ArcdUGwhsX3__NjwTXYGgMy5NxbdM",
+      "https://mega.nz/file/QO4HSajY#t2fiPcUEc9-TVCHfZVhB_o2VnqdIMltmex4-GHB-9pQ",
+      "https://mega.nz/file/kDx0yTCZ#OWOSTEfryx7ITxBOkQX6BvHxnQYEG3pEUIF4BFsK8K8"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A12 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xs-256gb-spacegray",
+    "namespaceId": "apple-iphone-xs",
+    "name": "Apple iPhone XS 256GB Spacegray",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 960,
+    "priceDiscount": 900,
+    "colorsAvailable": ["spacegray", "gold"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/deRRTTja#phHkaJ2drM7D0iFxpz8Uou6YFzwHyab1AZro6oobE5k",
+      "https://mega.nz/file/tbYDgQSa#7eRGwm-sgvZ56Aq6Ek9BkM4_G0YPxlGkce3rETqMEC4",
+      "https://mega.nz/file/QSIxGb5C#GkVI5-YJ2X_5EXeO1qFR0Vqb2FI7JW2SdUrr00GG1wk",
+      "https://mega.nz/file/hWQEUIzJ#zSX34JaP1Gt7-8m-YHoJVdfCSATAhXR_ct-8MnM57Y0",
+      "https://mega.nz/file/VaAzAZYI#jIVCLzVA2XS1-u2506hgIxj59NR98RNut-EHAn0ryzM"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "5.8' OLED",
+    "resolution": "2436х1125",
+    "processor": "Apple A12 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 12MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xs-max-64gb-gold",
+    "namespaceId": "apple-iphone-xs-max",
+    "name": "Apple iPhone XS Max 64GB Gold",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 960,
+    "priceDiscount": 900,
+    "colorsAvailable": ["spacegray", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/VKhBhb4T#l1gwQmsohwmS23PhfhIqAJVe9BveSRbFFoyyOWNrKa0",
+      "https://mega.nz/file/RbAQVDqC#2edRBiulcxsbFkSiodsOd7_9RbdlOyyCSlbUKTPk58A",
+      "https://mega.nz/file/pWRiCboa#u-n0Nb74H1VoxzmDo--ciWmObiFvYaRgzvBJbZ_P4II",
+      "https://mega.nz/file/VeIngRgQ#MrJFI3-rgQFgxYzHsx4XYb3pauH79fwjcxZW65tfmQE",
+      "https://mega.nz/file/1DRkQayL#s6kh0B3ax3In_s1qcjo7GtZD2-9hKjtwC0ZNMrbpx8w"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED (Super Retina HD)",
+    "resolution": "2688х1242",
+    "processor": "Apple A12 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 7MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xs-max-64gb-silver",
+    "namespaceId": "apple-iphone-xs-max",
+    "name": "Apple iPhone XS Max 64GB Silver",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 960,
+    "priceDiscount": 900,
+    "colorsAvailable": ["spacegray", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/lfgAHYwI#Ac3Ig5qcYzyzuO0_3FVG7pDiLJrAjx95Yd3-4ThyTQAg",
+      "https://mega.nz/file/taRSHQhD#iVtD28-f3xfuoJrq_3pSF8BKJ80pBlpyx_XEEsq3v4w",
+      "https://mega.nz/file/4bQinS6J#tR6Vj4edUEGAn8ZITuBuivF2CAy-mANMglrNqwyIMDA",
+      "https://mega.nz/file/xO5DGLxD#DvVLYcHAnkfthVVZ3SGLj82U8xj_N6a6fQ5qrigwyvw",
+      "https://mega.nz/file/4aYzyJiB#Lxon915L8IwonECL97ZrFEBeXNtxrGgum-_CkUCbsso"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED (Super Retina HD)",
+    "resolution": "2688х1242",
+    "processor": "Apple A12 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 7MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xs-max-64gb-spacegray",
+    "namespaceId": "apple-iphone-xs-max",
+    "name": "Apple iPhone XS Max 64GB Spacegray",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "64GB",
+    "priceRegular": 960,
+    "priceDiscount": 900,
+    "colorsAvailable": ["spacegray", "gold", "silver"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/gLIC1LhL#FbIVOqA4B9nKS3LQkrn0q74Y5Xes8FwM4Dt0EpMduSk",
+      "https://mega.nz/file/NbRjBCIb#qsPme3cwGoZ816VgJO7hUruS_XEaKc3QYY5xLh6wIWk",
+      "https://mega.nz/file/EaoUDADK#W4Ea_8svLhcZ9yph4cn-3NZC3a1577lSAgblH2G3hEA",
+      "https://mega.nz/file/lfADRQKa#UilP_2n935JrVUaWNkwxgJgyc4IFf51GWLN5ZPqaBVY",
+      "https://mega.nz/file/oOZk2QQL#Nqbm8-TIC44kSirt3Nreghl1Ur2ClWshjkaGyBmVbY8"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED (Super Retina HD)",
+    "resolution": "2688х1242",
+    "processor": "Apple A12 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 7MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xs-max-256gb-gold",
+    "namespaceId": "apple-iphone-xs-max",
+    "name": "Apple iPhone XS Max 256GB Gold",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1080,
+    "priceDiscount": 1000,
+    "colorsAvailable": ["spacegray", "gold", "silver"],
+    "color": "gold",
+    "images": [
+      "https://mega.nz/file/VKhBhb4T#l1gwQmsohwmS23PhfhIqAJVe9BveSRbFFoyyOWNrKa0",
+      "https://mega.nz/file/RbAQVDqC#2edRBiulcxsbFkSiodsOd7_9RbdlOyyCSlbUKTPk58A",
+      "https://mega.nz/file/pWRiCboa#u-n0Nb74H1VoxzmDo--ciWmObiFvYaRgzvBJbZ_P4II",
+      "https://mega.nz/file/VeIngRgQ#MrJFI3-rgQFgxYzHsx4XYb3pauH79fwjcxZW65tfmQE",
+      "https://mega.nz/file/1DRkQayL#s6kh0B3ax3In_s1qcjo7GtZD2-9hKjtwC0ZNMrbpx8w"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED (Super Retina HD)",
+    "resolution": "2688х1242",
+    "processor": "Apple A12 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 7MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xs-max-256gb-silver",
+    "namespaceId": "apple-iphone-xs-max",
+    "name": "Apple iPhone XS Max 256GB Silver",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1080,
+    "priceDiscount": 1000,
+    "colorsAvailable": ["spacegray", "gold", "silver"],
+    "color": "silver",
+    "images": [
+      "https://mega.nz/file/lfgAHYwI#Ac3Ig5qcYzyzuO0_3FVG7pDiLJrAjx95Yd3-4ThyTQAg",
+      "https://mega.nz/file/taRSHQhD#iVtD28-f3xfuoJrq_3pSF8BKJ80pBlpyx_XEEsq3v4w",
+      "https://mega.nz/file/4bQinS6J#tR6Vj4edUEGAn8ZITuBuivF2CAy-mANMglrNqwyIMDA",
+      "https://mega.nz/file/xO5DGLxD#DvVLYcHAnkfthVVZ3SGLj82U8xj_N6a6fQ5qrigwyvw",
+      "https://mega.nz/file/4aYzyJiB#Lxon915L8IwonECL97ZrFEBeXNtxrGgum-_CkUCbsso"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED (Super Retina HD)",
+    "resolution": "2688х1242",
+    "processor": "Apple A12 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 7MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  },
+  {
+    "id": "apple-iphone-xs-max-256gb-spacegray",
+    "namespaceId": "apple-iphone-xs-max",
+    "name": "Apple iPhone XS Max 256GB Spacegray",
+    "capacityAvailable": ["64GB", "256GB"],
+    "capacity": "256GB",
+    "priceRegular": 1080,
+    "priceDiscount": 1000,
+    "colorsAvailable": ["spacegray", "gold", "silver"],
+    "color": "spacegray",
+    "images": [
+      "https://mega.nz/file/gLIC1LhL#FbIVOqA4B9nKS3LQkrn0q74Y5Xes8FwM4Dt0EpMduSk",
+      "https://mega.nz/file/NbRjBCIb#qsPme3cwGoZ816VgJO7hUruS_XEaKc3QYY5xLh6wIWk",
+      "https://mega.nz/file/EaoUDADK#W4Ea_8svLhcZ9yph4cn-3NZC3a1577lSAgblH2G3hEA",
+      "https://mega.nz/file/lfADRQKa#UilP_2n935JrVUaWNkwxgJgyc4IFf51GWLN5ZPqaBVY",
+      "https://mega.nz/file/oOZk2QQL#Nqbm8-TIC44kSirt3Nreghl1Ur2ClWshjkaGyBmVbY8"
+    ],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ],
+    "screen": "6.5' OLED (Super Retina HD)",
+    "resolution": "2688х1242",
+    "processor": "Apple A12 Bionic",
+    "ram": "4GB",
+    "camera": "12 Mp + 12 Mp + 7MP",
+    "zoom": "Digital, 10x / Optical, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  }
+]

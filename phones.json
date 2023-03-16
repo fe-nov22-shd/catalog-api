@@ -1,6 +1,6 @@
 [
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-7-32gb-black",
     "itemId": "apple-iphone-7-32gb-black",
     "name": "Apple iPhone 7 32GB Black",
@@ -14,7 +14,7 @@
     "image": "https://mega.nz/file/8fQ21I5Y#Yqx0XjqdAbKW2qZvToWPRrtnk4eviPxRuaXLwfunj-M"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-7-plus-32gb-black",
     "itemId": "apple-iphone-7-plus-32gb-black",
     "name": "Apple iPhone 7 Plus 32GB Black",
@@ -28,7 +28,7 @@
     "image": "https://mega.nz/file/JbZAGRgb#BqPI5y7uw2mqigUXFOf2ksUTSFzPEnNlDLztCujXNDs"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-8-64gb-gold",
     "itemId": "apple-iphone-8-64gb-gold",
     "name": "Apple iPhone 8 64GB Gold",
@@ -42,7 +42,7 @@
     "image": "https://mega.nz/file/VCpQ2RpR#sfrdMSTmT_NucZNktugBLP2h77ondXpIrhFW-Dww4ag"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-64gb-black",
     "itemId": "apple-iphone-11-64gb-black",
     "name": "Apple iPhone 11 64GB Black",
@@ -56,7 +56,7 @@
     "image": "https://mega.nz/file/1CAElTrY#vROLmZXpiYUFK7OUs84K5ziEhK-BkTrNM2j2inWHcJI"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-128gb-yellow",
     "itemId": "apple-iphone-11-128gb-yellow",
     "name": "Apple iPhone 11 128GB Yellow",
@@ -70,7 +70,7 @@
     "image": "https://mega.nz/file/Ma4TBLYT#n5hTGzTIi4DnhIvNRu9GS5LmZHoaxXt0RRoft8-pfvg"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-256gb-green",
     "itemId": "apple-iphone-11-256gb-green",
     "name": "Apple iPhone 11 256GB Green",
@@ -84,7 +84,7 @@
     "image": "https://mega.nz/file/9fQwWIaC#YYu2uV8XeWZSTYHekHbqA5lplcWzqZK9JkT6iMqF8pU"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-64gb-gold",
     "itemId": "apple-iphone-11-pro-64gb-gold",
     "name": "Apple iPhone 11 Pro 64GB Gold",
@@ -98,7 +98,7 @@
     "image": "https://mega.nz/file/0OBVDKgI#jEyoL-tKz7lRPv0qoOlP_qrxdvdEq5Poo0lCb-MGGws"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-256gb-midnightgreen",
     "itemId": "apple-iphone-11-pro-256gb-midnightgreen",
     "name": "Apple iPhone 11 Pro 256GB Midnight green",
@@ -112,7 +112,7 @@
     "image": "https://mega.nz/file/sTpFQIiQ#1eKLcfP3ulq14Qilr6lKKUWfAAwZY75oDQjSIo3cGac"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-512gb-silver",
     "itemId": "apple-iphone-11-pro-512gb-silver",
     "name": "Apple iPhone 11 Pro 512GB Silver",
@@ -126,7 +126,7 @@
     "image": "https://mega.nz/file/ceIEzJYb#o81oU6gUSjVZjjFC1_O9P_fPj77IXDz2qsESWRsZiT4"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-64gb-spacegray",
     "itemId": "apple-iphone-11-pro-max-64gb-spacegray",
     "name": "Apple iPhone 11 Pro Max 64GB Spacegray",
@@ -140,7 +140,7 @@
     "image": "https://mega.nz/file/IWwgwQYb#kFVXiklrF11hkbQSgfPJigSLZdUzfMaTjTD_OHhks-c"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-256gb-gold",
     "itemId": "apple-iphone-11-pro-max-256gb-gold",
     "name": "Apple iPhone 11 Pro Max 256GB Gold",
@@ -154,7 +154,7 @@
     "image": "https://mega.nz/file/NaYFnTZL#XAwI8x558KZ4Jsemzrp_RsYbBDSg-k6yTaEOlJkT0G0"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-512gb-spacegray",
     "itemId": "apple-iphone-11-pro-max-512gb-spacegray",
     "name": "Apple iPhone 11 Pro Max 512GB Spacegray",
@@ -168,7 +168,7 @@
     "image": "https://mega.nz/file/IWwgwQYb#kFVXiklrF11hkbQSgfPJigSLZdUzfMaTjTD_OHhks-c"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xr-64gb-red",
     "itemId": "apple-iphone-xr-64gb-red",
     "name": "Apple iPhone XR 64GB Red",
@@ -182,7 +182,7 @@
     "image": "https://mega.nz/file/oSBVBbSb#3V81Nf1w0VNhX3bQhR3vM-zdQsz_2GtYHeY4PGmPu8w"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xr-128gb-white",
     "itemId": "apple-iphone-xr-128gb-white",
     "name": "Apple iPhone XR 128GB White",
@@ -196,7 +196,7 @@
     "image": "https://mega.nz/file/wGhDDQqC#Gaa3ss8L_NWzFGulJz4pGgjo8fQwu9wqNcvwFMprfKY"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xs-64gb-spacegray",
     "itemId": "apple-iphone-xs-64gb-spacegray",
     "name": "Apple iPhone XS 64GB Spacegray",
@@ -210,7 +210,7 @@
     "image": "https://mega.nz/file/deRRTTja#phHkaJ2drM7D0iFxpz8Uou6YFzwHyab1AZro6oobE5k"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xs-max-64gb-gold",
     "itemId": "apple-iphone-xs-max-64gb-gold",
     "name": "Apple iPhone XS Max 64GB Gold",
@@ -224,7 +224,7 @@
     "image": "https://mega.nz/file/VKhBhb4T#l1gwQmsohwmS23PhfhIqAJVe9BveSRbFFoyyOWNrKa0"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xs-max-256gb-silver",
     "itemId": "apple-iphone-xs-max-256gb-silver",
     "name": "Apple iPhone XS Max 256GB Silver",
@@ -238,7 +238,7 @@
     "image": "https://mega.nz/file/lfgAHYwI#Ac3Ig5qcYzyzuO0_3FVG7pDiLJrAjx95Yd3-4ThyTQA"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-7-32gb-gold",
     "itemId": "apple-iphone-7-32gb-gold",
     "name": "Apple iPhone 7 32GB Gold",
@@ -252,7 +252,7 @@
     "image": "https://mega.nz/file/4C5TVBBZ#IdUrwe8hIA26x6VAFDnOZVt3g8i2rg3SY9syeTNcFrc"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-7-plus-32gb-silver",
     "itemId": "apple-iphone-7-plus-32gb-silver",
     "name": "Apple iPhone 7 Plus 32GB Silver",
@@ -266,7 +266,7 @@
     "image": "https://mega.nz/file/9PA1RJSA#m-qmdNP8jt2SFWYuTW5z960XFb7fTdXQCl00zg46PM8"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-8-64gb-spacegray",
     "itemId": "apple-iphone-8-64gb-spacegray",
     "name": "Apple iPhone 8 64GB Space Gray",
@@ -280,7 +280,7 @@
     "image": "https://mega.nz/file/9bpSGaQJ#dDK09BxSxh63CnLW8Cn5bFdNYh6AxnSBW3kt_BbPVZw"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-64gb-green",
     "itemId": "apple-iphone-11-64gb-green",
     "name": "Apple iPhone 11 64GB Green",
@@ -294,7 +294,7 @@
     "image": "https://mega.nz/file/9fQwWIaC#YYu2uV8XeWZSTYHekHbqA5lplcWzqZK9JkT6iMqF8pU"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-128gb-purple",
     "itemId": "apple-iphone-11-128gb-purple",
     "name": "Apple iPhone 11 128GB Purple",
@@ -308,7 +308,7 @@
     "image": "https://mega.nz/file/gOADwBII#EwDbWsdW0gytmE7TAv7bESBuKgnWWT_Gjtv4hLpMmcI"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-256gb-yellow",
     "itemId": "apple-iphone-11-256gb-yellow",
     "name": "Apple iPhone 11 256GB Yellow",
@@ -322,7 +322,7 @@
     "image": "https://mega.nz/file/Ma4TBLYT#n5hTGzTIi4DnhIvNRu9GS5LmZHoaxXt0RRoft8-pfvg"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-256gb-gold",
     "itemId": "apple-iphone-11-pro-256gb-gold",
     "name": "Apple iPhone 11 Pro 256GB Gold",
@@ -336,7 +336,7 @@
     "image": "https://mega.nz/file/0OBVDKgI#jEyoL-tKz7lRPv0qoOlP_qrxdvdEq5Poo0lCb-MGGws"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-512gb-spacegray",
     "itemId": "apple-iphone-11-pro-512gb-spacegray",
     "name": "Apple iPhone 11 Pro 512GB Spacegray",
@@ -350,7 +350,7 @@
     "image": "https://mega.nz/file/BORz1LjR#dyUPT9XsTRr6-_ORpEWW2QFIiyUEaV9yB16zTctWq-I"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-64gb-silver",
     "itemId": "apple-iphone-11-pro-max-64gb-silver",
     "name": "Apple iPhone 11 Pro Max 64GB Silver",
@@ -364,7 +364,7 @@
     "image": "https://mega.nz/file/0KpwXbgT#YFz2poK2BLlTRpKDkjEpoV-IbSs0y37c1YQe3f8v2LY"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-256gb-midnightgreen",
     "itemId": "apple-iphone-11-pro-max-256gb-midnightgreen",
     "name": "Apple iPhone 11 Pro Max 256GB Midnightgreen",
@@ -378,7 +378,7 @@
     "image": "https://mega.nz/file/tW4iFaqZ#7rO1LNd96SOVfnvf1M9hRmaWmTqaNmBxe4f7ULZBwvg"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-512gb-silver",
     "itemId": "apple-iphone-11-pro-max-512gb-silver",
     "name": "Apple iPhone 11 Pro Max 512GB Silver",
@@ -392,7 +392,7 @@
     "image": "https://mega.nz/file/0KpwXbgT#YFz2poK2BLlTRpKDkjEpoV-IbSs0y37c1YQe3f8v2LY"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xr-64gb-white",
     "itemId": "apple-iphone-xr-64gb-white",
     "name": "Apple iPhone XR 64GB White",
@@ -406,7 +406,7 @@
     "image": "https://mega.nz/file/wGhDDQqC#Gaa3ss8L_NWzFGulJz4pGgjo8fQwu9wqNcvwFMprfKY"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xr-128gb-coral",
     "itemId": "apple-iphone-xr-128gb-coral",
     "name": "Apple iPhone XR 128GB Coral",
@@ -420,7 +420,7 @@
     "image": "https://mega.nz/file/9KognZAI#Z5etx08rZS4rkHKxZXd8VYy71dPMu220ei83nFM7yCE"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xs-64gb-gold",
     "itemId": "apple-iphone-xs-64gb-gold",
     "name": "Apple iPhone XS 64GB Gold",
@@ -434,7 +434,7 @@
     "image": "https://mega.nz/file/VHghgZJS#FpUbZIugumGNo9Fg7x30wZzUmp8hB2cDBBv_LEXEEQI"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xs-256gb-spacegray",
     "itemId": "apple-iphone-xs-256gb-spacegray",
     "name": "Apple iPhone XS 256GB Spacegray",
@@ -448,7 +448,7 @@
     "image": "https://mega.nz/file/deRRTTja#phHkaJ2drM7D0iFxpz8Uou6YFzwHyab1AZro6oobE5k"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xs-max-64gb-silver",
     "itemId": "apple-iphone-xs-max-64gb-silver",
     "name": "Apple iPhone XS Max 64GB Silver",
@@ -462,7 +462,7 @@
     "image": "https://mega.nz/file/lfgAHYwI#Ac3Ig5qcYzyzuO0_3FVG7pDiLJrAjx95Yd3-4ThyTQA"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xs-max-256gb-gold",
     "itemId": "apple-iphone-xs-max-256gb-gold",
     "name": "Apple iPhone XS Max 256GB Gold",
@@ -476,7 +476,7 @@
     "image": "https://mega.nz/file/VKhBhb4T#l1gwQmsohwmS23PhfhIqAJVe9BveSRbFFoyyOWNrKa0"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-7-32gb-rosegold",
     "itemId": "apple-iphone-7-32gb-rosegold",
     "name": "Apple iPhone 7 32GB Rosegold",
@@ -490,7 +490,7 @@
     "image": "https://mega.nz/file/5aAXkaCL#R_4GhhnCTIp7DU_CHpnvwWxAd9caENwSjKXmi5lmaMU"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-64gb-purple",
     "itemId": "apple-iphone-11-64gb-purple",
     "name": "Apple iPhone 11 64GB Purple",
@@ -504,7 +504,7 @@
     "image": "https://mega.nz/file/gOADwBII#EwDbWsdW0gytmE7TAv7bESBuKgnWWT_Gjtv4hLpMmcI"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-64gb-red",
     "itemId": "apple-iphone-11-64gb-red",
     "name": "Apple iPhone 11 64GB Red",
@@ -518,7 +518,7 @@
     "image": "https://mega.nz/file/RTQCCASI#Ugsqet-Sqw-JDP1vGf4SRFRdh_WS3yRsyZDa1SqilUo"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-128gb-black",
     "itemId": "apple-iphone-11-128gb-black",
     "name": "Apple iPhone 11 128GB Black",
@@ -532,7 +532,7 @@
     "image": "https://mega.nz/file/1CAElTrY#vROLmZXpiYUFK7OUs84K5ziEhK-BkTrNM2j2inWHcJI"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-256gb-red",
     "itemId": "apple-iphone-11-256gb-red",
     "name": "Apple iPhone 11 256GB Red",
@@ -546,7 +546,7 @@
     "image": "https://mega.nz/file/RTQCCASI#Ugsqet-Sqw-JDP1vGf4SRFRdh_WS3yRsyZDa1SqilUo"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-64gb-midnightgreen",
     "itemId": "apple-iphone-11-pro-64gb-midnightgreen",
     "name": "Apple iPhone 11 Pro 64GB Midnight green",
@@ -560,7 +560,7 @@
     "image": "https://mega.nz/file/sTpFQIiQ#1eKLcfP3ulq14Qilr6lKKUWfAAwZY75oDQjSIo3cGac"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-256gb-silver",
     "itemId": "apple-iphone-11-pro-256gb-silver",
     "name": "Apple iPhone 11 Pro 256GB Silver",
@@ -574,7 +574,7 @@
     "image": "https://mega.nz/file/ceIEzJYb#o81oU6gUSjVZjjFC1_O9P_fPj77IXDz2qsESWRsZiT4"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-512gb-gold",
     "itemId": "apple-iphone-11-pro-512gb-gold",
     "name": "Apple iPhone 11 Pro 512GB Gold",
@@ -588,7 +588,7 @@
     "image": "https://mega.nz/file/0OBVDKgI#jEyoL-tKz7lRPv0qoOlP_qrxdvdEq5Poo0lCb-MGGws"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-64gb-midnightgreen",
     "itemId": "apple-iphone-11-pro-max-64gb-midnightgreen",
     "name": "Apple iPhone 11 Pro Max 64GB Midnightgreen",
@@ -602,7 +602,7 @@
     "image": "https://mega.nz/file/tW4iFaqZ#7rO1LNd96SOVfnvf1M9hRmaWmTqaNmBxe4f7ULZBwvg"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-256gb-spacegray",
     "itemId": "apple-iphone-11-pro-max-256gb-spacegray",
     "name": "Apple iPhone 11 Pro Max 256GB Spacegray",
@@ -616,7 +616,7 @@
     "image": "https://mega.nz/file/IWwgwQYb#kFVXiklrF11hkbQSgfPJigSLZdUzfMaTjTD_OHhks-c"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xr-64gb-coral",
     "itemId": "apple-iphone-xr-64gb-coral",
     "name": "Apple iPhone XR 64GB Coral",
@@ -630,7 +630,7 @@
     "image": "https://mega.nz/file/9KognZAI#Z5etx08rZS4rkHKxZXd8VYy71dPMu220ei83nFM7yCE"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xr-128gb-red",
     "itemId": "apple-iphone-xr-128gb-red",
     "name": "Apple iPhone XR 128GB Red",
@@ -644,7 +644,7 @@
     "image": "https://mega.nz/file/oSBVBbSb#3V81Nf1w0VNhX3bQhR3vM-zdQsz_2GtYHeY4PGmPu8w"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xs-256gb-gold",
     "itemId": "apple-iphone-xs-256gb-gold",
     "name": "Apple iPhone XS 256GB Gold",
@@ -658,7 +658,7 @@
     "image": "https://mega.nz/file/VHghgZJS#FpUbZIugumGNo9Fg7x30wZzUmp8hB2cDBBv_LEXEEQI"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xs-max-64gb-spacegray",
     "itemId": "apple-iphone-xs-max-64gb-spacegray",
     "name": "Apple iPhone XS Max 64GB Spacegray",
@@ -672,7 +672,7 @@
     "image": "https://mega.nz/file/gLIC1LhL#FbIVOqA4B9nKS3LQkrn0q74Y5Xes8FwM4Dt0EpMduSk"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-7-plus-32gb-rosegold",
     "itemId": "apple-iphone-7-plus-32gb-rosegold",
     "name": "Apple iPhone 7 Plus 32GB Rosegold",
@@ -686,7 +686,7 @@
     "image": "https://mega.nz/file/gfQXCAgY#NNUXsjyltgZOqautNe9WLY7ql4aFSlAWzScRUc1-FOU"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-64gb-white",
     "itemId": "apple-iphone-11-64gb-white",
     "name": "Apple iPhone 11 64GB White",
@@ -700,7 +700,7 @@
     "image": "https://mega.nz/file/hDYBQBzC#0_-ABgPNlNau7v3Qh935_gg3zYeiHLoXXLe0FyzVcYg"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-128gb-green",
     "itemId": "apple-iphone-11-128gb-green",
     "name": "Apple iPhone 11 128GB Green",
@@ -714,7 +714,7 @@
     "image": "https://mega.nz/file/9fQwWIaC#YYu2uV8XeWZSTYHekHbqA5lplcWzqZK9JkT6iMqF8pU"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-128gb-white",
     "itemId": "apple-iphone-11-128gb-white",
     "name": "Apple iPhone 11 128GB White",
@@ -728,7 +728,7 @@
     "image": "https://mega.nz/file/hDYBQBzC#0_-ABgPNlNau7v3Qh935_gg3zYeiHLoXXLe0FyzVcYg"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-256gb-black",
     "itemId": "apple-iphone-11-256gb-black",
     "name": "Apple iPhone 11 256GB Black",
@@ -742,7 +742,7 @@
     "image": "https://mega.nz/file/1CAElTrY#vROLmZXpiYUFK7OUs84K5ziEhK-BkTrNM2j2inWHcJI"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-256gb-white",
     "itemId": "apple-iphone-11-256gb-white",
     "name": "Apple iPhone 11 256GB White",
@@ -756,7 +756,7 @@
     "image": "https://mega.nz/file/hDYBQBzC#0_-ABgPNlNau7v3Qh935_gg3zYeiHLoXXLe0FyzVcYg"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-64gb-spacegray",
     "itemId": "apple-iphone-11-pro-64gb-spacegray",
     "name": "Apple iPhone 11 Pro 64GB Spacegray",
@@ -770,7 +770,7 @@
     "image": "https://mega.nz/file/BORz1LjR#dyUPT9XsTRr6-_ORpEWW2QFIiyUEaV9yB16zTctWq-I"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-512gb-midnightgreen",
     "itemId": "apple-iphone-11-pro-512gb-midnightgreen",
     "name": "Apple iPhone 11 Pro 512GB Midnight green",
@@ -784,7 +784,7 @@
     "image": "https://mega.nz/file/sTpFQIiQ#1eKLcfP3ulq14Qilr6lKKUWfAAwZY75oDQjSIo3cGac"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-64gb-gold",
     "itemId": "apple-iphone-11-pro-max-64gb-gold",
     "name": "Apple iPhone 11 Pro Max 64GB Gold",
@@ -798,7 +798,7 @@
     "image": "https://mega.nz/file/NaYFnTZL#XAwI8x558KZ4Jsemzrp_RsYbBDSg-k6yTaEOlJkT0G0"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-256gb-silver",
     "itemId": "apple-iphone-11-pro-max-256gb-silver",
     "name": "Apple iPhone 11 Pro Max 256GB Silver",
@@ -812,7 +812,7 @@
     "image": "https://mega.nz/file/0KpwXbgT#YFz2poK2BLlTRpKDkjEpoV-IbSs0y37c1YQe3f8v2LY"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-512gb-midnightgreen",
     "itemId": "apple-iphone-11-pro-max-512gb-midnightgreen",
     "name": "Apple iPhone 11 Pro Max 512GB Midnightgreen",
@@ -826,7 +826,7 @@
     "image": "https://mega.nz/file/tW4iFaqZ#7rO1LNd96SOVfnvf1M9hRmaWmTqaNmBxe4f7ULZBwvg"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xr-128gb-yellow",
     "itemId": "apple-iphone-xr-128gb-yellow",
     "name": "Apple iPhone XR 128GB Yellow",
@@ -840,7 +840,7 @@
     "image": "https://mega.nz/file/1GBQzBCb#jLBLr4plickBWZ8vcBHzegSbd2IkgmonzwqcCTcVyHk"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-7-32gb-silver",
     "itemId": "apple-iphone-7-32gb-silver",
     "name": "Apple iPhone 7 32GB Silver",
@@ -854,7 +854,7 @@
     "image": "https://mega.nz/file/paJVwIbT#LijSHCnuS2IXEosNt6vw6vum8zWC23Pvk9qyE4l4GJM"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-256gb-purple",
     "itemId": "apple-iphone-11-256gb-purple",
     "name": "Apple iPhone 11 256GB Purple",
@@ -868,7 +868,7 @@
     "image": "https://mega.nz/file/gOADwBII#EwDbWsdW0gytmE7TAv7bESBuKgnWWT_Gjtv4hLpMmcI"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-max-512gb-gold",
     "itemId": "apple-iphone-11-pro-max-512gb-gold",
     "name": "Apple iPhone 11 Pro Max 512GB Gold",
@@ -882,7 +882,7 @@
     "image": "https://mega.nz/file/NaYFnTZL#XAwI8x558KZ4Jsemzrp_RsYbBDSg-k6yTaEOlJkT0G0"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-64gb-yellow",
     "itemId": "apple-iphone-11-64gb-yellow",
     "name": "Apple iPhone 11 64GB Yellow",
@@ -896,7 +896,7 @@
     "image": "https://mega.nz/file/Ma4TBLYT#n5hTGzTIi4DnhIvNRu9GS5LmZHoaxXt0RRoft8-pfvg"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-256gb-spacegray",
     "itemId": "apple-iphone-11-pro-256gb-spacegray",
     "name": "Apple iPhone 11 Pro 256GB Spacegray",
@@ -910,7 +910,7 @@
     "image": "https://mega.nz/file/BORz1LjR#dyUPT9XsTRr6-_ORpEWW2QFIiyUEaV9yB16zTctWq-I"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-8-64gb-silver",
     "itemId": "apple-iphone-8-64gb-silver",
     "name": "Apple iPhone 8 64GB Silver",
@@ -924,7 +924,7 @@
     "image": "https://mega.nz/file/tSZzhDgT#atq3Do1U49pHSjmy6ILMN0JgVPJz-lZhmw4hLmz_jII"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-128gb-red",
     "itemId": "apple-iphone-11-128gb-red",
     "name": "Apple iPhone 11 128GB Red",
@@ -938,7 +938,7 @@
     "image": "https://mega.nz/file/RTQCCASI#Ugsqet-Sqw-JDP1vGf4SRFRdh_WS3yRsyZDa1SqilUo"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xs-max-256gb-spacegray",
     "itemId": "apple-iphone-xs-max-256gb-spacegray",
     "name": "Apple iPhone XS Max 256GB Spacegray",
@@ -952,7 +952,7 @@
     "image": "https://mega.nz/file/gLIC1LhL#FbIVOqA4B9nKS3LQkrn0q74Y5Xes8FwM4Dt0EpMduSk"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-7-plus-32gb-gold",
     "itemId": "apple-iphone-7-plus-32gb-gold",
     "name": "Apple iPhone 7 Plus 32GB Gold",
@@ -966,7 +966,7 @@
     "image": "https://mega.nz/file/4K4WTB6Y#_ZhuwddyYXC38y-lMvtcfQBSiJy4HhmD7MAoSFPPT2I"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-11-pro-64gb-silver",
     "itemId": "apple-iphone-11-pro-64gb-silver",
     "name": "Apple iPhone 11 Pro 64GB Silver",
@@ -980,7 +980,7 @@
     "image": "https://mega.nz/file/ceIEzJYb#o81oU6gUSjVZjjFC1_O9P_fPj77IXDz2qsESWRsZiT4"
   },
   {
-    "category": "phones",
+    "categoryId": 1,
     "phoneId": "apple-iphone-xr-64gb-yellow",
     "itemId": "apple-iphone-xr-64gb-yellow",
     "name": "Apple iPhone XR 64GB Yellow",
