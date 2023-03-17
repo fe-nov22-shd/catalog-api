@@ -1,6 +1,8 @@
 import { Request, Response } from 'express';
 import * as phoneInfoService from '../services/phoneInfo';
 import { PhoneInfoResponse } from "../types/PhoneInfoResponse";
+import {responseDataParser} from "../utils/responseDataParser";
+import {requestDataParser} from "../utils/requestDataParser";
 
 export const getOne = async (req: Request, res: Response) => {
     const { phoneId } = req.params;
@@ -13,14 +15,7 @@ export const getOne = async (req: Request, res: Response) => {
         return;
     }
 
-    const dataToResponse = {
-        ...foundPhoneInfo.dataValues,
-        capacityAvailable: JSON.parse(foundPhoneInfo.capacityAvailable),
-        colorsAvailable: JSON.parse(foundPhoneInfo.colorsAvailable),
-        images: JSON.parse(foundPhoneInfo.images),
-        description: JSON.parse(foundPhoneInfo.description),
-        cell: JSON.parse(foundPhoneInfo.cell),
-    }
+    const dataToResponse = responseDataParser(foundPhoneInfo);
 
     res.send(dataToResponse);
 }
@@ -35,25 +30,11 @@ export const addPhoneInfo = async (req: Request, res: Response) => {
         return;
     }
 
-    const dataToServer = {
-        ...PhoneInfoFromRequest,
-        capacityAvailable: JSON.stringify(PhoneInfoFromRequest.capacityAvailable),
-        colorsAvailable: JSON.stringify(PhoneInfoFromRequest.colorsAvailable),
-        images: JSON.stringify(PhoneInfoFromRequest.images),
-        description: JSON.stringify(PhoneInfoFromRequest.description),
-        cell: JSON.stringify(PhoneInfoFromRequest.cell),
-    }
+    const dataToServer = requestDataParser(PhoneInfoFromRequest);
 
     const phoneInfo = await phoneInfoService.addPhoneInfo(dataToServer);
 
-    const dataToResponse = {
-        ...phoneInfo.dataValues,
-        capacityAvailable: JSON.parse(phoneInfo.capacityAvailable),
-        colorsAvailable: JSON.parse(phoneInfo.colorsAvailable),
-        images: JSON.parse(phoneInfo.images),
-        description: JSON.parse(phoneInfo.description),
-        cell: JSON.parse(phoneInfo.cell),
-    }
+    const dataToResponse = responseDataParser(phoneInfo);
 
     res.status(201);
     res.send(dataToResponse);
