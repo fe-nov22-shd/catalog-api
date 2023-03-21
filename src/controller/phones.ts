@@ -3,6 +3,7 @@ import * as phonesService from '../services/phones';
 import { PhoneResponse } from "../types/PhoneResponse";
 import { handlerSort } from "../utils/handlerSort";
 import { handlerPagination } from "../utils/handlerPagination";
+import { Phone } from '../models/Phone';
 
 export const getAll = async (req: Request, res: Response) => {
     let phones = await phonesService.getAll();
@@ -69,4 +70,19 @@ export const removePhone = async (req: Request, res: Response) => {
 
     await phonesService.removePhone(phoneId);
     res.sendStatus(204);
+}
+
+export const getSimilarGoods = async (req: Request, res: Response) => {
+    let phones = await phonesService.getAll();
+    const { phoneId } = req.body;
+    const good = await phonesService.getById(phoneId);
+
+    phones = phones.filter((phone) => {
+        if (phone.price > good!.price - 200  && phone.price < good!.price + 200 && good!.id !== phone.id) {
+            return phone;
+    }});
+
+    phones = phones.slice(0, 8);
+
+    res.send(phones);
 }

@@ -6,6 +6,8 @@ export const router = express.Router();
 router.get('/', phoneController.getAll);
 router.get('/:phoneId', phoneController.getOne)
 
+router.post('/relevant', phoneController.getSimilarGoods)
+
 router.post('/', phoneController.addPhone)
 router.delete('/:phoneId', phoneController.removePhone)
 
