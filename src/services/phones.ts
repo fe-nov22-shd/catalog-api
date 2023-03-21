@@ -22,3 +22,4 @@ export const removePhone = async (phoneId: number) => {
         }
     })
 }
+
