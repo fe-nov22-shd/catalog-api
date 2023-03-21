@@ -32,12 +32,7 @@ export const getAll = async (req: Request, res: Response) => {
 export const getOne = async (req: Request, res: Response) => {
     const { phoneId } = req.params;
 
-    if (isNaN(+phoneId)) {
-        res.sendStatus(422);
-        return;
-    }
-
-    const foundPhone = await phonesService.getById(+phoneId);
+    const foundPhone = await phonesService.getById(phoneId);
 
     if (!foundPhone) {
         res.sendStatus(404);
@@ -66,14 +61,14 @@ export const addPhone = async (req: Request, res: Response) => {
 export const removePhone = async (req: Request, res: Response) => {
     const { phoneId } = req.params;
 
-    const foundPhone = await phonesService.getById(+phoneId);
+    const foundPhone = await phonesService.getById(phoneId);
 
     if (!foundPhone) {
         res.sendStatus(404);
         return;
     }
 
-    await phonesService.removePhone(+phoneId);
+    await phonesService.removePhone(phoneId);
     res.sendStatus(204);
 }
 

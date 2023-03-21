@@ -5,8 +5,12 @@ export const getAll = async () => {
     return Phone.findAll();
 }
 
-export const getById = async (phoneId: number) => {
-    return Phone.findByPk(phoneId);
+export const getById = async (phoneId: string) => {
+    return Phone.findOne(
+        {
+            where: { phoneId: phoneId },
+        }
+    );
 }
 
 export const addPhone = async (date: PhoneResponse) => {
@@ -15,10 +19,10 @@ export const addPhone = async (date: PhoneResponse) => {
     });
 }
 
-export const removePhone = async (phoneId: number) => {
+export const removePhone = async (phoneId: string) => {
     await Phone.destroy({
         where: {
-            id: phoneId,
+            phoneId: phoneId,
         }
     })
 }
