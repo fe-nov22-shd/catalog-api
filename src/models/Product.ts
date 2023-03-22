@@ -7,7 +7,7 @@ import {
   PrimaryKey,
   Table
 } from 'sequelize-typescript';
-import { PhoneInfo } from "./PhoneInfo";
+import { ProductInfo } from "./ProductInfo";
 import { Category } from "./Category";
 
 @Table({
@@ -16,7 +16,7 @@ import { Category } from "./Category";
   updatedAt: false,
 })
 
-export class Phone extends Model {
+export class Product extends Model {
   @PrimaryKey
   @AutoIncrement
   @AllowNull(false)
@@ -36,14 +36,14 @@ export class Phone extends Model {
   category: Category | null;
 
   @AllowNull(false)
-  @ForeignKey(() => PhoneInfo)
+  @ForeignKey(() => ProductInfo)
   @Column({
     type: DataType.STRING,
   })
   phoneId: string;
 
-  @BelongsTo(() => PhoneInfo)
-  phoneInfo: PhoneInfo | null;
+  @BelongsTo(() => ProductInfo)
+  phoneInfo: ProductInfo | null;
 
   @AllowNull(false)
   @Column({

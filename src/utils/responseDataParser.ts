@@ -1,6 +1,6 @@
-import {PhoneInfo} from "../models/PhoneInfo";
+import {ProductInfo} from "../models/ProductInfo";
 
-export const responseDataParser  = (foundPhoneInfo: PhoneInfo) => {
+export const responseDataParser  = (foundPhoneInfo: ProductInfo) => {
     return  {
         ...foundPhoneInfo.dataValues,
         capacityAvailable: JSON.parse(foundPhoneInfo.capacityAvailable),

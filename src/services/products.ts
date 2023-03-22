@@ -1,12 +1,12 @@
-import { Phone } from "../models/Phone";
+import { Product } from "../models/Product";
 import { PhoneResponse } from "../types/PhoneResponse";
 
 export const getAll = async () => {
-    return Phone.findAll();
+    return Product.findAll();
 }
 
 export const getById = async (phoneId: string) => {
-    return Phone.findOne(
+    return Product.findOne(
         {
             where: { phoneId: phoneId },
         }
@@ -14,13 +14,13 @@ export const getById = async (phoneId: string) => {
 }
 
 export const addPhone = async (date: PhoneResponse) => {
-    return Phone.create({
+    return Product.create({
        ...date
     });
 }
 
 export const removePhone = async (phoneId: string) => {
-    await Phone.destroy({
+    await Product.destroy({
         where: {
             phoneId: phoneId,
         }

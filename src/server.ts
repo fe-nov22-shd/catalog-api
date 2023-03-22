@@ -1,8 +1,8 @@
 import express from 'express';
 import cors from 'cors';
 
-import { router as phonesRouter } from './routes/phones'
-import { router as phoneInfoRouter } from './routes/phoneInfo'
+import { router as productRouter } from './routes/products'
+import { router as productInfoRouter } from './routes/productsInfo'
 import { router as docuRouter } from './routes/documentstion'
 import { dbInit } from './utils/initDB';
 
@@ -13,8 +13,9 @@ dbInit();
 app.use(cors());
 
 app.use('/', express.json(), docuRouter);
-app.use('/phones', express.json(), phonesRouter);
-app.use('/phones/info', express.json(), phoneInfoRouter);
+
+app.use('/products', express.json(), productRouter);
+app.use('/products/info', express.json(), productInfoRouter);
 
 
 app.listen(3000);

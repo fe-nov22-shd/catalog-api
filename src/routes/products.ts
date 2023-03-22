@@ -1,18 +1,17 @@
 import express from 'express';
-import * as phoneController from '../controller/phones';
+import * as phoneController from '../controller/products';
 
 export const router = express.Router();
 
-router.get('/', phoneController.getAll);
+router.get('/phones', phoneController.getAllPhones);
+router.get('/tablets', phoneController.getAllTablets);
+
 router.get('/hotprice', phoneController.getHotPrice)
 router.get('/brand-new', phoneController.getBrandNew)
-
-
-router.get('/:phoneId', phoneController.getOne)
+router.get('/:priductId', phoneController.getOne)
 
 router.post('/relevant', phoneController.getSimilarGoods)
-
 router.post('/', phoneController.addPhone)
-router.delete('/:phoneId', phoneController.removePhone)
+router.delete('/:productId', phoneController.removePhone)
 
 

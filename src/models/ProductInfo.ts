@@ -13,7 +13,7 @@ import {
   updatedAt: false,
 })
 
-export class PhoneInfo extends Model {
+export class ProductInfo extends Model {
   @PrimaryKey
   @AllowNull(false)
   @Column({

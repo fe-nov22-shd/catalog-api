@@ -1,14 +1,13 @@
 import { Request, Response } from 'express';
-import * as phonesService from '../services/phones';
+import * as phonesService from '../services/products';
 import { PhoneResponse } from "../types/PhoneResponse";
 import { handlerSort } from "../utils/handlerSort";
 import { handlerPagination } from "../utils/handlerPagination";
-import { Phone } from '../models/Phone';
 
-import { IsNull } from 'sequelize-typescript';
+export const getAllPhones = async (req: Request, res: Response) => {
+    const products = await phonesService.getAll();
 
-export const getAll = async (req: Request, res: Response) => {
-    let phones = await phonesService.getAll();
+    let phones = products.filter(product => product.categoryId === 1);
     const amount = phones.length;
 
     const normalizedURL = new URL(req.url, `http://${req.headers.host}`);
@@ -28,6 +27,32 @@ export const getAll = async (req: Request, res: Response) => {
     res.send({
         amount,
         phones,
+    });
+}
+
+export const getAllTablets = async (req: Request, res: Response) => {
+    const products = await phonesService.getAll();
+
+    let tablets = products.filter(product => product.categoryId === 2);
+    const amount = tablets.length;
+
+    const normalizedURL = new URL(req.url, `http://${req.headers.host}`);
+
+    const sortType = normalizedURL.searchParams.get('sort');
+    const currentPage = normalizedURL.searchParams.get('page');
+    const itemsPerPage = normalizedURL.searchParams.get('perPage');
+
+    if (sortType) {
+        handlerSort(sortType, tablets);
+    }
+
+    if (currentPage && itemsPerPage) {
+        tablets = handlerPagination(+currentPage,+itemsPerPage, tablets);
+    }
+
+    res.send({
+        amount,
+        tablets,
     });
 }
 
@@ -54,10 +79,15 @@ export const addPhone = async (req: Request, res: Response) => {
         return;
     }
 
-    const phone = await phonesService.addPhone(PhoneFromRequest);
+    try {
+        const phone = await phonesService.addPhone(PhoneFromRequest);
+        res.status(201);
+        res.send(phone);
+    } catch (error: any) {
+        res.send(error.message)
+    }
 
-    res.status(201);
-    res.send(phone);
+
 }
 
 export const removePhone = async (req: Request, res: Response) => {
@@ -91,13 +121,13 @@ export const getSimilarGoods = async (req: Request, res: Response) => {
 export const getHotPrice = async (req: Request, res: Response) => {
     let phones = await phonesService.getAll();
 
-    const phoneswithDiscount = phones.map(phone => {
+    const phonesWithDiscount = phones.map(phone => {
         const discountAmount = phone.fullPrice - phone.price
         return ({...phone, discountAmount})
     })
-    const sortedPhoneswithDiscount = phoneswithDiscount.sort((a, b) => b.discountAmount - a.discountAmount)
+    const sortedPhonesWithDiscount = phonesWithDiscount.sort((a, b) => b.discountAmount - a.discountAmount)
 
-    res.send(sortedPhoneswithDiscount.slice(0, 15));
+    res.send(sortedPhonesWithDiscount.slice(0, 15));
 }
 
 export const getBrandNew = async (req: Request, res: Response) => {
@@ -105,8 +135,8 @@ export const getBrandNew = async (req: Request, res: Response) => {
 
     const yearsOfRealise = phones
         .map((phone) => phone.year)
-        .sort((a, b) => b - a);    
-    
+        .sort((a, b) => b - a);
+
     const brandNewPhones = phones.filter(phone => phone.year === yearsOfRealise[0] )
 
     res.send(brandNewPhones);

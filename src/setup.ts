@@ -1,15 +1,16 @@
-import { Phone } from "./models/Phone";
-import { PhoneInfo } from "./models/PhoneInfo";
+import { Product } from "./models/Product";
+import { ProductInfo } from "./models/ProductInfo";
 import { Category } from "./models/Category";
 import { dbInit } from "./utils/initDB";
+const { sequelize } = require('./models');
 
 (async () => {
   dbInit();
 
   try {
-    await PhoneInfo.sync({ alter: true });
+    await ProductInfo.sync({ alter: true });
     await Category.sync({ alter: true });
-    await Phone.sync({ alter: true });
+    await Product.sync({ alter: true });
 
   } catch (error: any) {
     throw new Error(error.message);

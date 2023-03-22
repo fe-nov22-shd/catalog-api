@@ -1,55 +1,55 @@
 import { Request, Response } from 'express';
-import * as phoneInfoService from '../services/phoneInfo';
+import * as productInfoService from '../services/productsInfo';
 import { PhoneInfoResponse } from "../types/PhoneInfoResponse";
 import {responseDataParser} from "../utils/responseDataParser";
 import {requestDataParser} from "../utils/requestDataParser";
 
 export const getOne = async (req: Request, res: Response) => {
-    const { phoneId } = req.params;
+    const { productId } = req.params;
 
-    const foundPhoneInfo = await phoneInfoService.getById(phoneId);
+    const foundProductInfo = await productInfoService.getById(productId);
 
-    if (!foundPhoneInfo) {
+    if (!foundProductInfo) {
         res.sendStatus(404);
 
         return;
     }
 
-    const dataToResponse = responseDataParser(foundPhoneInfo);
+    const dataToResponse = responseDataParser(foundProductInfo);
 
     res.send(dataToResponse);
 }
 
 
-export const addPhoneInfo = async (req: Request, res: Response) => {
-    const PhoneInfoFromRequest: PhoneInfoResponse = req.body;
-    const PhoneFromRequestSize = Object.keys(PhoneInfoFromRequest).length;
+export const addProductInfo = async (req: Request, res: Response) => {
+    const ProductInfoFromRequest: PhoneInfoResponse = req.body;
+    const PhoneFromRequestSize = Object.keys(ProductInfoFromRequest).length;
 
     if (PhoneFromRequestSize !== 18) {
         res.sendStatus(422);
         return;
     }
 
-    const dataToServer = requestDataParser(PhoneInfoFromRequest);
+    const dataToServer = requestDataParser(ProductInfoFromRequest);
 
-    const phoneInfo = await phoneInfoService.addPhoneInfo(dataToServer);
+    const productInfo = await productInfoService.addProductInfo(dataToServer);
 
-    const dataToResponse = responseDataParser(phoneInfo);
+    const dataToResponse = responseDataParser(productInfo);
 
     res.status(201);
     res.send(dataToResponse);
 }
 
-export const removePhone = async (req: Request, res: Response) => {
-    const { phoneId } = req.params;
+export const removeProductInfo = async (req: Request, res: Response) => {
+    const { productId } = req.params;
 
-    const foundPhoneInfo = await phoneInfoService.getById(phoneId);
+    const foundProductInfo = await productInfoService.getById(productId);
 
-    if (!foundPhoneInfo) {
+    if (!foundProductInfo) {
         res.sendStatus(404);
         return;
     }
 
-    await phoneInfoService.removePhoneInfo(phoneId);
+    await productInfoService.removeProductInfo(productId);
     res.sendStatus(204);
 }

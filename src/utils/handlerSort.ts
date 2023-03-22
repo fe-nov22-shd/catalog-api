@@ -1,7 +1,7 @@
 import {Sort} from "../types/Sort";
-import {Phone} from "../models/Phone";
+import {Product} from "../models/Product";
 
-export const handlerSort = (sortType: string, phones: Phone[]) => {
+export const handlerSort = (sortType: string, phones: Product[]) => {
     if (sortType) {
         switch (sortType as Sort) {
             case Sort.Newest:
