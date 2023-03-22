@@ -26,7 +26,7 @@ export const getAllPhones = async (req: Request, res: Response) => {
     }
 
     if (query) {
-        phones = phones.filter(phone => phone.name.includes(query));
+        phones = phones.filter(phone => phone.name.toLowerCase().includes(query.toLowerCase()));
     }
 
     res.send({
