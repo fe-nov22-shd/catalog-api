@@ -18,4 +18,4 @@ app.use('/products', express.json(), productRouter);
 app.use('/products/info', express.json(), productInfoRouter);
 
 
-app.listen(5700);
+app.listen(3000);
