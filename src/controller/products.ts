@@ -1,11 +1,11 @@
 import { Request, Response } from 'express';
-import * as phonesService from '../services/products';
+import * as productsService from '../services/products';
 import { PhoneResponse } from "../types/PhoneResponse";
 import { handlerSort } from "../utils/handlerSort";
 import { handlerPagination } from "../utils/handlerPagination";
 
 export const getAllPhones = async (req: Request, res: Response) => {
-    const products = await phonesService.getAll();
+    const products = await productsService.getAll();
 
     let phones = products.filter(product => product.categoryId === 1);
     const amount = phones.length;
@@ -31,7 +31,7 @@ export const getAllPhones = async (req: Request, res: Response) => {
 }
 
 export const getAllTablets = async (req: Request, res: Response) => {
-    const products = await phonesService.getAll();
+    const products = await productsService.getAll();
 
     let tablets = products.filter(product => product.categoryId === 2);
     const amount = tablets.length;
@@ -59,7 +59,7 @@ export const getAllTablets = async (req: Request, res: Response) => {
 export const getOne = async (req: Request, res: Response) => {
     const { phoneId } = req.params;
 
-    const foundPhone = await phonesService.getById(phoneId);
+    const foundPhone = await productsService.getById(phoneId);
 
     if (!foundPhone) {
         res.sendStatus(404);
@@ -80,46 +80,47 @@ export const addPhone = async (req: Request, res: Response) => {
     }
 
     try {
-        const phone = await phonesService.addPhone(PhoneFromRequest);
+        const phone = await productsService.addPhone(PhoneFromRequest);
         res.status(201);
         res.send(phone);
     } catch (error: any) {
         res.send(error.message)
     }
 
-
 }
 
 export const removePhone = async (req: Request, res: Response) => {
     const { phoneId } = req.params;
 
-    const foundPhone = await phonesService.getById(phoneId);
+    const foundPhone = await productsService.getById(phoneId);
 
     if (!foundPhone) {
         res.sendStatus(404);
         return;
     }
 
-    await phonesService.removePhone(phoneId);
+    await productsService.removePhone(phoneId);
     res.sendStatus(204);
 }
 export const getSimilarGoods = async (req: Request, res: Response) => {
-    let phones = await phonesService.getAll();
-    const { phoneId } = req.body;
-    const good = await phonesService.getById(phoneId);
+    const products = await productsService.getAll();
+    const { productId } = req.body;
+    const good = await productsService.getById(productId);
 
-    phones = phones.filter((phone) => {
-        if (phone.price > good!.price - 200  && phone.price < good!.price + 200 && good!.id !== phone.id) {
-            return phone;
+    let productsByCategory = products.filter(product => product.categoryId === good?.categoryId);
+
+    productsByCategory = productsByCategory.filter((prod) => {
+        if (prod.price > good!.price - 200  && prod.price < good!.price + 200 && good!.id !== prod.id) {
+            return prod;
     }});
 
-    phones = phones.slice(0, 8);
+    productsByCategory = productsByCategory.slice(0, 8);
 
-    res.send(phones);
+    res.send(productsByCategory);
 }
 
 export const getHotPrice = async (req: Request, res: Response) => {
-    let phones = await phonesService.getAll();
+    let phones = await productsService.getAll();
 
     const phonesWithDiscount = phones.map(phone => {
         const discountAmount = phone.fullPrice - phone.price
@@ -131,7 +132,7 @@ export const getHotPrice = async (req: Request, res: Response) => {
 }
 
 export const getBrandNew = async (req: Request, res: Response) => {
-    let phones = await phonesService.getAll();
+    let phones = await productsService.getAll();
 
     const yearsOfRealise = phones
         .map((phone) => phone.year)
