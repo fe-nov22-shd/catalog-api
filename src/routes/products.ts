@@ -8,7 +8,7 @@ router.get('/tablets', phoneController.getAllTablets);
 
 router.get('/hotprice', phoneController.getHotPrice)
 router.get('/brand-new', phoneController.getBrandNew)
-router.get('/:priductId', phoneController.getOne)
+router.get('/:productId', phoneController.getOne)
 
 router.post('/relevant', phoneController.getSimilarGoods)
 router.post('/', phoneController.addPhone)

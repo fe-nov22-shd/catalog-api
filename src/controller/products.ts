@@ -57,9 +57,9 @@ export const getAllTablets = async (req: Request, res: Response) => {
 }
 
 export const getOne = async (req: Request, res: Response) => {
-    const { phoneId } = req.params;
+    const { productId } = req.params;
 
-    const foundPhone = await productsService.getById(phoneId);
+    const foundPhone = await productsService.getById(productId);
 
     if (!foundPhone) {
         res.sendStatus(404);
@@ -90,16 +90,16 @@ export const addPhone = async (req: Request, res: Response) => {
 }
 
 export const removePhone = async (req: Request, res: Response) => {
-    const { phoneId } = req.params;
+    const { productId } = req.params;
 
-    const foundPhone = await productsService.getById(phoneId);
+    const foundPhone = await productsService.getById(productId);
 
     if (!foundPhone) {
         res.sendStatus(404);
         return;
     }
 
-    await productsService.removePhone(phoneId);
+    await productsService.removePhone(productId);
     res.sendStatus(204);
 }
 export const getSimilarGoods = async (req: Request, res: Response) => {
