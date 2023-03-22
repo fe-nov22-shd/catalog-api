@@ -15,6 +15,7 @@ export const getAllPhones = async (req: Request, res: Response) => {
     const sortType = normalizedURL.searchParams.get('sort');
     const currentPage = normalizedURL.searchParams.get('page');
     const itemsPerPage = normalizedURL.searchParams.get('perPage');
+    const query = normalizedURL.searchParams.get('query');
 
     if (sortType) {
         handlerSort(sortType, phones);
@@ -22,6 +23,10 @@ export const getAllPhones = async (req: Request, res: Response) => {
 
     if (currentPage && itemsPerPage) {
         phones = handlerPagination(+currentPage,+itemsPerPage, phones);
+    }
+
+    if (query) {
+        phones = phones.filter(phone => phone.name.includes(query));
     }
 
     res.send({
