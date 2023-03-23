@@ -30,6 +30,8 @@ export const getAll = async (req: Request, res: Response) => {
         productsByCategory = handlerFilter(query, products);
     }
 
+    const amount = productsByCategory.length;
+
     if (sortType) {
         handlerSort(sortType, productsByCategory);
     }
@@ -37,8 +39,6 @@ export const getAll = async (req: Request, res: Response) => {
     if (currentPage && itemsPerPage) {
         productsByCategory = handlerPagination(+currentPage,+itemsPerPage, productsByCategory);
     }
-
-    const amount = productsByCategory.length;
 
     res.send({
         amount,
