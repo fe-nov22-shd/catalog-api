@@ -1,4 +1,4 @@
-export interface PhoneResponse {
+export interface ProductResponse {
     categoryId: number,
     phoneId: string,
     itemId: string,

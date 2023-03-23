@@ -1,4 +1,4 @@
-export interface PhoneInfoResponse {
+export interface ProductResponse {
     id: string,
     namespaceId: string,
     name: string,

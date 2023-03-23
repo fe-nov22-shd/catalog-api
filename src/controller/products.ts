@@ -1,63 +1,48 @@
 import { Request, Response } from 'express';
 import * as productsService from '../services/products';
-import { PhoneResponse } from "../types/PhoneResponse";
-import { handlerSort } from "../utils/handlerSort";
-import { handlerPagination } from "../utils/handlerPagination";
+import { ProductResponse } from '../types/ProductResponse';
+import { handlerSort } from '../utils/handlerSort';
+import { handlerPagination } from '../utils/handlerPagination';
+import {handlerFilter} from '../utils/handlerFilter';
 
-export const getAllPhones = async (req: Request, res: Response) => {
+export const getAll = async (req: Request, res: Response) => {
     const products = await productsService.getAll();
 
-    let phones = products.filter(product => product.categoryId === 1);
-    const amount = phones.length;
-
     const normalizedURL = new URL(req.url, `http://${req.headers.host}`);
+
+    const path = normalizedURL.pathname;
+
+    let productsByCategory = products.filter(product => {
+        if (path.includes('phones')){
+            return product.categoryId === 1
+        }
+        if (path.includes('tablets')){
+            return product.categoryId === 2
+        }
+    });
 
     const sortType = normalizedURL.searchParams.get('sort');
     const currentPage = normalizedURL.searchParams.get('page');
     const itemsPerPage = normalizedURL.searchParams.get('perPage');
     const query = normalizedURL.searchParams.get('query');
 
-    if (sortType) {
-        handlerSort(sortType, phones);
-    }
-
-    if (currentPage && itemsPerPage) {
-        phones = handlerPagination(+currentPage,+itemsPerPage, phones);
-    }
-
     if (query) {
-        phones = phones.filter(phone => phone.name.toLowerCase().includes(query.toLowerCase()));
+        productsByCategory = handlerFilter(query, products);
     }
 
-    res.send({
-        amount,
-        phones,
-    });
-}
-
-export const getAllTablets = async (req: Request, res: Response) => {
-    const products = await productsService.getAll();
-
-    let tablets = products.filter(product => product.categoryId === 2);
-    const amount = tablets.length;
-
-    const normalizedURL = new URL(req.url, `http://${req.headers.host}`);
-
-    const sortType = normalizedURL.searchParams.get('sort');
-    const currentPage = normalizedURL.searchParams.get('page');
-    const itemsPerPage = normalizedURL.searchParams.get('perPage');
-
     if (sortType) {
-        handlerSort(sortType, tablets);
+        handlerSort(sortType, productsByCategory);
     }
 
     if (currentPage && itemsPerPage) {
-        tablets = handlerPagination(+currentPage,+itemsPerPage, tablets);
+        productsByCategory = handlerPagination(+currentPage,+itemsPerPage, productsByCategory);
     }
+
+    const amount = productsByCategory.length;
 
     res.send({
         amount,
-        tablets,
+        productsByCategory,
     });
 }
 
@@ -75,38 +60,40 @@ export const getOne = async (req: Request, res: Response) => {
     res.send(foundPhone);
 }
 
-export const addPhone = async (req: Request, res: Response) => {
-    const PhoneFromRequest: PhoneResponse = req.body;
-    const PhoneFromRequestSize = Object.keys(PhoneFromRequest).length;
 
-    if (PhoneFromRequestSize !== 12) {
+export const addProduct = async (req: Request, res: Response) => {
+    const ProductFromRequest: ProductResponse = req.body;
+    const ProductFromRequestSize = Object.keys(ProductFromRequest).length;
+
+    if (ProductFromRequestSize !== 12) {
         res.sendStatus(422);
         return;
     }
 
     try {
-        const phone = await productsService.addPhone(PhoneFromRequest);
+        const product = await productsService.addProduct(ProductFromRequest);
         res.status(201);
-        res.send(phone);
+        res.send(product);
     } catch (error: any) {
         res.send(error.message)
     }
 
 }
 
-export const removePhone = async (req: Request, res: Response) => {
+export const removeProduct = async (req: Request, res: Response) => {
     const { productId } = req.params;
 
-    const foundPhone = await productsService.getById(productId);
+    const foundProduct = await productsService.getById(productId);
 
-    if (!foundPhone) {
+    if (!foundProduct) {
         res.sendStatus(404);
         return;
     }
 
-    await productsService.removePhone(productId);
+    await productsService.removeProduct(productId);
     res.sendStatus(204);
 }
+
 export const getSimilarGoods = async (req: Request, res: Response) => {
     const products = await productsService.getAll();
     const { productId } = req.body;
@@ -125,11 +112,11 @@ export const getSimilarGoods = async (req: Request, res: Response) => {
 }
 
 export const getHotPrice = async (req: Request, res: Response) => {
-    let phones = await productsService.getAll();
+    let products = await productsService.getAll();
 
-    const phonesWithDiscount = phones.map(phone => {
-        const discountAmount = phone.fullPrice - phone.price
-        return ({...phone, discountAmount})
+    const phonesWithDiscount = products.map(product => {
+        const discountAmount = product.fullPrice - product.price
+        return ({...product, discountAmount})
     })
     const sortedPhonesWithDiscount = phonesWithDiscount.sort((a, b) => b.discountAmount - a.discountAmount)
 
@@ -137,13 +124,13 @@ export const getHotPrice = async (req: Request, res: Response) => {
 }
 
 export const getBrandNew = async (req: Request, res: Response) => {
-    let phones = await productsService.getAll();
+    let products = await productsService.getAll();
 
-    const yearsOfRealise = phones
-        .map((phone) => phone.year)
+    const yearsOfRealise = products
+        .map((product) => product.year)
         .sort((a, b) => b - a);
 
-    const brandNewPhones = phones.filter(phone => phone.year === yearsOfRealise[0] )
+    const brandNewPhones = products.filter(product => product.year === yearsOfRealise[0] )
 
     res.send(brandNewPhones);
 }

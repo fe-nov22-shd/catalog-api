@@ -1,11 +1,11 @@
 import { ProductInfo } from "../models/ProductInfo";
-import { PhoneInfoResponse } from "../types/PhoneInfoResponse";
+import { ProductResponse } from "../types/ProductnfoResponse";
 
 export const getById = async (phoneId: string) => {
     return ProductInfo.findByPk(phoneId);
 }
 
-export const addProductInfo = async (date: PhoneInfoResponse) => {
+export const addProductInfo = async (date: ProductResponse) => {
     return ProductInfo.create({
         ...date
     });

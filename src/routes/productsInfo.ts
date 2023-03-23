@@ -1,5 +1,5 @@
 import express from 'express';
-import * as phoneInfoController from '../controller/phoneInfo';
+import * as phoneInfoController from '../controller/productInfo';
 
 export const router = express.Router();
 

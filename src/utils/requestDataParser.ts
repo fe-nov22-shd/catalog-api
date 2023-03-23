@@ -1,6 +1,6 @@
-import {PhoneInfoResponse} from "../types/PhoneInfoResponse";
+import {ProductResponse} from "../types/ProductnfoResponse";
 
-export const requestDataParser = (PhoneInfoFromRequest: PhoneInfoResponse) => {
+export const requestDataParser = (PhoneInfoFromRequest: ProductResponse) => {
     return {
         ...PhoneInfoFromRequest,
         capacityAvailable: JSON.stringify(PhoneInfoFromRequest.capacityAvailable),

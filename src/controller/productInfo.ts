@@ -1,8 +1,8 @@
 import { Request, Response } from 'express';
 import * as productInfoService from '../services/productsInfo';
-import { PhoneInfoResponse } from "../types/PhoneInfoResponse";
-import {responseDataParser} from "../utils/responseDataParser";
-import {requestDataParser} from "../utils/requestDataParser";
+import { ProductResponse } from '../types/ProductnfoResponse';
+import { responseDataParser } from '../utils/responseDataParser';
+import { requestDataParser } from '../utils/requestDataParser';
 
 export const getOne = async (req: Request, res: Response) => {
     const { productId } = req.params;
@@ -22,7 +22,7 @@ export const getOne = async (req: Request, res: Response) => {
 
 
 export const addProductInfo = async (req: Request, res: Response) => {
-    const ProductInfoFromRequest: PhoneInfoResponse = req.body;
+    const ProductInfoFromRequest: ProductResponse = req.body;
     const PhoneFromRequestSize = Object.keys(ProductInfoFromRequest).length;
 
     if (PhoneFromRequestSize !== 18) {
@@ -32,12 +32,16 @@ export const addProductInfo = async (req: Request, res: Response) => {
 
     const dataToServer = requestDataParser(ProductInfoFromRequest);
 
-    const productInfo = await productInfoService.addProductInfo(dataToServer);
+    try {
+        const productInfo = await productInfoService.addProductInfo(dataToServer);
+        const dataToResponse = responseDataParser(productInfo);
 
-    const dataToResponse = responseDataParser(productInfo);
-
-    res.status(201);
-    res.send(dataToResponse);
+        res.status(201);
+        res.send(dataToResponse);
+    } catch (error: any) {
+        res.status(204);
+        res.send(error.message);
+    }
 }
 
 export const removeProductInfo = async (req: Request, res: Response) => {

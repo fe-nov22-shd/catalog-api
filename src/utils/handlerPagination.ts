@@ -1,4 +1,4 @@
-import {Product} from "../models/Product";
+import { Product } from "../models/Product";
 
 export const handlerPagination = (currentPage: number, itemsPerPage: number,  phones: Product[]) => {
     const total = phones.length;
