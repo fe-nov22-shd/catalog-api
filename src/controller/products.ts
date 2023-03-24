@@ -27,7 +27,7 @@ export const getAll = async (req: Request, res: Response) => {
     const query = normalizedURL.searchParams.get('query');
 
     if (query) {
-        productsByCategory = handlerFilter(query, products);
+        productsByCategory = handlerFilter(query, productsByCategory);
     }
 
     const amount = productsByCategory.length;
